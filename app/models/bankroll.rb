@@ -1,0 +1,2 @@
+class Bankroll < ApplicationRecord
+end

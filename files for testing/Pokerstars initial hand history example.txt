@@ -1,0 +1,4438 @@
+*********** # 1 **************
+PokerStars Hand #208415630916:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:26:04 WET [2020/01/22 5:26:04 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: voronDOK ($1.02 in chips)
+Seat 2: RubbisTK ($2.63 in chips)
+Seat 3: trukot ($6.05 in chips)
+Seat 4: StuffedPeppr ($2.37 in chips)
+Seat 5: soultee88 ($2.16 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7s Ac]
+heracles008: raises $0.04 to $0.06
+Electronikus: folds
+KyJIaKoB: calls $0.06
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: calls $0.04
+*** FLOP *** [Ts 8d 4h]
+StuffedPeppr leaves the table
+pokereule754 joins the table at seat #4
+soultee88: checks
+heracles008: bets $0.08
+KyJIaKoB: calls $0.08
+soultee88: folds
+*** TURN *** [Ts 8d 4h] [6h]
+heracles008: bets $0.12
+KyJIaKoB: raises $0.12 to $0.24
+heracles008: calls $0.12
+*** RIVER *** [Ts 8d 4h 6h] [Kd]
+heracles008: checks
+KyJIaKoB: bets $0.42
+heracles008: folds
+Uncalled bet ($0.42) returned to KyJIaKoB
+KyJIaKoB collected $0.80 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03
+Board [Ts 8d 4h 6h Kd]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded on the Flop
+Seat 7: heracles008 folded on the River
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB collected ($0.80)
+
+
+*********** # 2 **************
+PokerStars Hand #208415618147:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:25:14 WET [2020/01/22 5:25:14 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.44 in chips)
+Seat 2: CJHird ($0.55 in chips)
+Seat 3: StuffedPeppr ($4.98 in chips)
+Seat 4: Williams1015 ($0.76 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 7: MAAE959 ($0.86 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.17 in chips)
+Williams1015: posts small blind $0.01
+immersteif: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Tc 3s]
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: raises $0.03 to $0.05
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.04
+StuffedPeppr leaves the table
+immersteif: calls $0.03
+*** FLOP *** [Qh 7h As]
+Shelder87 joins the table at seat #3
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** TURN *** [Qh 7h As] [2d]
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** RIVER *** [Qh 7h As 2d] [Js]
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** SHOW DOWN ***
+Williams1015: shows [9d Jh] (a pair of Jacks)
+immersteif: mucks hand
+Castesso: mucks hand
+Williams1015 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [Qh 7h As 2d Js]
+Seat 1: Castesso mucked [6c 6s]
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 4: Williams1015 (small blind) showed [9d Jh] and won ($0.14) with a pair of Jacks
+Seat 5: immersteif (big blind) mucked [5s 5c]
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #208415613640:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:24:57 WET [2020/01/22 5:24:57 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: voronDOK ($1.37 in chips)
+Seat 2: RubbisTK ($2.63 in chips)
+Seat 3: trukot ($6.11 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2.16 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ks Qh]
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: raises $0.04 to $0.06
+RubbisTK: folds
+trukot: calls $0.05
+StuffedPeppr: calls $0.04
+*** FLOP *** [5c 9d Qc]
+trukot: checks
+StuffedPeppr: bets $0.10
+voronDOK: calls $0.10
+trukot: folds
+*** TURN *** [5c 9d Qc] [7d]
+StuffedPeppr: checks
+voronDOK: bets $0.19
+StuffedPeppr: calls $0.19
+*** RIVER *** [5c 9d Qc 7d] [6s]
+StuffedPeppr: checks
+voronDOK: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [Ks Qh] (a pair of Queens)
+voronDOK: mucks hand
+StuffedPeppr collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03
+Board [5c 9d Qc 7d 6s]
+Seat 1: voronDOK mucked [Qd Jd]
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) folded on the Flop
+Seat 4: StuffedPeppr (big blind) showed [Ks Qh] and won ($0.73) with a pair of Queens
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #208415609641:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:24:41 WET [2020/01/22 5:24:41 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.44 in chips)
+Seat 2: CJHird ($0.55 in chips)
+Seat 3: StuffedPeppr ($3.72 in chips)
+Seat 4: Williams1015 ($0.78 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.86 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.17 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ks Kc]
+immersteif: folds
+Aristarh0: raises $0.08 to $0.10
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.26 to $0.36
+Williams1015: folds
+Aristarh0: raises $0.97 to $1.33 and is all-in
+StuffedPeppr: calls $0.97
+*** FLOP *** [Jc 3c 4s]
+*** TURN *** [Jc 3c 4s] [Tc]
+*** RIVER *** [Jc 3c 4s Tc] [3h]
+*** SHOW DOWN ***
+StuffedPeppr: shows [Ks Kc] (two pair, Kings and Threes)
+Aristarh0: shows [Ah Kh] (a pair of Threes)
+StuffedPeppr collected $2.59 from pot
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.09
+Board [Jc 3c 4s Tc 3h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (small blind) showed [Ks Kc] and won ($2.59) with two pair, Kings and Threes
+Seat 4: Williams1015 (big blind) folded before Flop
+Seat 5: immersteif folded before Flop (didn't bet)
+Seat 6: Aristarh0 showed [Ah Kh] and lost with a pair of Threes
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #208415600674:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:24:06 WET [2020/01/22 5:24:06 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.44 in chips)
+Seat 2: CJHird ($0.56 in chips)
+Seat 3: StuffedPeppr ($3.60 in chips)
+Seat 4: Williams1015 ($0.78 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.98 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.17 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th Ad]
+Williams1015: folds
+immersteif: folds
+Aristarh0: folds
+MAAE959: raises $0.02 to $0.04
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.08 to $0.12
+MAAE959: calls $0.08
+*** FLOP *** [6c 4s 6d]
+StuffedPeppr: bets $0.14
+MAAE959: folds
+Uncalled bet ($0.14) returned to StuffedPeppr
+StuffedPeppr collected $0.24 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [6c 4s 6d]
+Seat 1: Castesso (button) folded before Flop (didn't bet)
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) collected ($0.24)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: immersteif folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded on the Flop
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 6 **************
+PokerStars Hand #208415598883:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:23:59 WET [2020/01/22 5:23:59 ET]
+Table 'Patroclus II' 9-max Seat #1 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($6.19 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8d 2s]
+StuffedPeppr: folds
+soultee88: raises $0.06 to $0.08
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: calls $0.08
+RubbisTK: folds
+trukot: calls $0.06
+*** FLOP *** [3s 4c 2d]
+trukot: checks
+soultee88: bets $0.18
+voronDOK: folds
+trukot: folds
+Uncalled bet ($0.18) returned to soultee88
+soultee88 collected $0.24 from pot
+soultee88: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [3s 4c 2d]
+Seat 1: voronDOK (button) folded on the Flop
+Seat 2: RubbisTK (small blind) folded before Flop
+Seat 3: trukot (big blind) folded on the Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 collected ($0.24)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #208415593102:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:23:36 WET [2020/01/22 5:23:36 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 1: voronDOK ($1.46 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($6.19 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($0.86 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+voronDOK: posts small blind $0.01
+RubbisTK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jd 6d]
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+heracles008: raises $0.04 to $0.06
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+Uncalled bet ($0.04) returned to heracles008
+heracles008 collected $0.05 from pot
+heracles008: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK (small blind) folded before Flop
+Seat 2: RubbisTK (big blind) folded before Flop
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 collected ($0.05)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (button) folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #208415585938:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:23:08 WET [2020/01/22 5:23:08 ET]
+Table 'Gansu' 9-max Seat #9 is the button
+Seat 1: Castesso ($2.45 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.60 in chips)
+Seat 4: Williams1015 ($0.80 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.98 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.12 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Td 6h]
+StuffedPeppr: folds
+Williams1015: calls $0.02
+immersteif has timed out
+immersteif: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: calls $0.02
+Castesso: folds
+CJHird: checks
+*** FLOP *** [4s Qh 9h]
+CJHird: checks
+Williams1015: checks
+k4pe307: bets $0.04
+CJHird: folds
+Williams1015: folds
+Uncalled bet ($0.04) returned to k4pe307
+k4pe307 collected $0.07 from pot
+k4pe307: doesn't show hand
+*** SUMMARY ***
+Total pot $0.07 | Rake $0
+Board [4s Qh 9h]
+Seat 1: Castesso (small blind) folded before Flop
+Seat 2: CJHird (big blind) folded on the Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded on the Flop
+Seat 5: immersteif folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 (button) collected ($0.07)
+
+
+*********** # 9 **************
+PokerStars Hand #208415585014:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:23:04 WET [2020/01/22 5:23:04 ET]
+Table 'Patroclus II' 9-max Seat #8 is the button
+Seat 1: voronDOK ($1.48 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($6.25 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($0.86 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.29 in chips)
+KyJIaKoB: posts small blind $0.01
+voronDOK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ks 5d]
+RubbisTK: folds
+trukot: raises $0.04 to $0.06
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: raises $0.14 to $0.20
+voronDOK: folds
+trukot: folds
+Uncalled bet ($0.14) returned to KyJIaKoB
+KyJIaKoB collected $0.14 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Seat 1: voronDOK (big blind) folded before Flop
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus (button) folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (small blind) collected ($0.14)
+
+
+*********** # 10 **************
+PokerStars Hand #208415581277:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:22:49 WET [2020/01/22 5:22:49 ET]
+Table 'Patroclus II' 9-max Seat #7 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($6.25 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($0.86 in chips)
+Seat 8: Electronikus ($1.86 in chips)
+Seat 9: KyJIaKoB ($2.31 in chips)
+Electronikus: posts small blind $0.01
+KyJIaKoB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3d 6s]
+voronDOK: raises $0.04 to $0.06
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: folds
+Uncalled bet ($0.04) returned to voronDOK
+voronDOK collected $0.05 from pot
+voronDOK: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK collected ($0.05)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 (button) folded before Flop (didn't bet)
+Seat 8: Electronikus (small blind) folded before Flop
+Seat 9: KyJIaKoB (big blind) folded before Flop
+
+
+*********** # 11 **************
+PokerStars Hand #208415576848:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:22:32 WET [2020/01/22 5:22:32 ET]
+Table 'Patroclus II' 9-max Seat #5 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($6.22 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($0.87 in chips)
+Seat 8: Electronikus ($1.88 in chips)
+Seat 9: KyJIaKoB ($2.31 in chips)
+heracles008: posts small blind $0.01
+Electronikus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ah 9c]
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: raises $0.03 to $0.05
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+Uncalled bet ($0.03) returned to trukot
+trukot collected $0.05 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot collected ($0.05)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 (button) folded before Flop (didn't bet)
+Seat 7: heracles008 (small blind) folded before Flop
+Seat 8: Electronikus (big blind) folded before Flop
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 12 **************
+PokerStars Hand #208415575866:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:22:28 WET [2020/01/22 5:22:28 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.60 in chips)
+Seat 4: Williams1015 ($0.49 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($1.03 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.05 in chips)
+k4pe307: posts small blind $0.01
+Castesso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3s Jh]
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+immersteif: folds
+Aristarh0: folds
+MAAE959: calls $0.02
+GreyWolf9999: folds
+k4pe307: calls $0.01
+Castesso: checks
+*** FLOP *** [4d 7d Qc]
+k4pe307: checks
+Castesso: checks
+MAAE959: bets $0.03
+k4pe307: raises $0.05 to $0.08
+Castesso: folds
+MAAE959: folds
+Uncalled bet ($0.05) returned to k4pe307
+k4pe307 collected $0.12 from pot
+k4pe307: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [4d 7d Qc]
+Seat 1: Castesso (big blind) folded on the Flop
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: immersteif folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded on the Flop
+Seat 8: GreyWolf9999 (button) folded before Flop (didn't bet)
+Seat 9: k4pe307 (small blind) collected ($0.12)
+
+
+*********** # 13 **************
+PokerStars Hand #208415562312:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:21:35 WET [2020/01/22 5:21:35 ET]
+Table 'Gansu' 9-max Seat #7 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.60 in chips)
+Seat 4: Williams1015 ($0.68 in chips)
+Seat 5: immersteif ($2 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($1.03 in chips)
+Seat 8: GreyWolf9999 ($2.07 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+GreyWolf9999: posts small blind $0.01
+k4pe307: posts big blind $0.02
+immersteif: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th 3s]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: raises $0.07 to $0.09
+immersteif: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: calls $0.07
+*** FLOP *** [3d 3c 5h]
+k4pe307: checks
+Williams1015: bets $0.10
+k4pe307: calls $0.10
+*** TURN *** [3d 3c 5h] [Ts]
+k4pe307: checks
+Williams1015: checks
+*** RIVER *** [3d 3c 5h Ts] [3h]
+k4pe307: bets $0.20
+Williams1015: folds
+Uncalled bet ($0.20) returned to k4pe307
+k4pe307 collected $0.40 from pot
+k4pe307: doesn't show hand
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01
+Board [3d 3c 5h Ts 3h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded on the River
+Seat 5: immersteif folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 (button) folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 (small blind) folded before Flop
+Seat 9: k4pe307 (big blind) collected ($0.40)
+
+
+*********** # 14 **************
+PokerStars Hand #208415561139:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:21:30 WET [2020/01/22 5:21:30 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($5.26 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($1.88 in chips)
+Seat 9: KyJIaKoB ($2.31 in chips)
+soultee88: posts small blind $0.01
+heracles008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6c 2d]
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: raises $0.03 to $0.05
+StuffedPeppr: folds
+soultee88: folds
+heracles008: calls $0.03
+*** FLOP *** [2c Qc 5c]
+heracles008: bets $0.06
+trukot: raises $0.14 to $0.20
+heracles008: calls $0.14
+*** TURN *** [2c Qc 5c] [3h]
+heracles008: bets $0.10
+trukot: raises $4.91 to $5.01 and is all-in
+heracles008: calls $1.65 and is all-in
+Uncalled bet ($3.26) returned to trukot
+*** RIVER *** [2c Qc 5c 3h] [Ks]
+*** SHOW DOWN ***
+heracles008: shows [Qs Qd] (three of a kind, Queens)
+trukot: shows [Jc 9c] (a flush, Queen high)
+trukot cashed out the hand for $2.96 | Cash Out Fee $0.03
+heracles008 cashed out the hand for $0.87 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.14
+Board [2c Qc 5c 3h Ks]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot showed [Jc 9c] and won ($3.87) with a flush, Queen high (pot not awarded as player cashed out)
+Seat 4: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 5: soultee88 (small blind) folded before Flop
+Seat 7: heracles008 (big blind) showed [Qs Qd] and lost with three of a kind, Queens (cashed out).
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #208415554354:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:21:03 WET [2020/01/22 5:21:03 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.66 in chips)
+Seat 3: trukot ($5.26 in chips)
+Seat 4: StuffedPeppr ($1.94 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($1.88 in chips)
+Seat 9: KyJIaKoB ($2.28 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3d Ks]
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: raises $0.04 to $0.06
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+Uncalled bet ($0.04) returned to KyJIaKoB
+KyJIaKoB collected $0.05 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded before Flop
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB collected ($0.05)
+
+
+*********** # 16 **************
+PokerStars Hand #208415545867:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:20:29 WET [2020/01/22 5:20:29 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.59 in chips)
+Seat 3: trukot ($5.27 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($1.88 in chips)
+Seat 9: KyJIaKoB ($2.28 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7d Kd]
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: raises $0.04 to $0.06
+trukot: folds
+StuffedPeppr: calls $0.04
+*** FLOP *** [6d 9c 6h]
+StuffedPeppr: checks
+RubbisTK: checks
+*** TURN *** [6d 9c 6h] [3d]
+StuffedPeppr: checks
+RubbisTK: checks
+*** RIVER *** [6d 9c 6h 3d] [6s]
+StuffedPeppr: checks
+RubbisTK: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [7d Kd] (three of a kind, Sixes)
+RubbisTK: shows [Ts As] (three of a kind, Sixes - Ace kicker)
+RubbisTK collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0
+Board [6d 9c 6h 3d 6s]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK (button) showed [Ts As] and won ($0.13) with three of a kind, Sixes
+Seat 3: trukot (small blind) folded before Flop
+Seat 4: StuffedPeppr (big blind) showed [7d Kd] and lost with three of a kind, Sixes
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 17 **************
+PokerStars Hand #208415541911:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:20:14 WET [2020/01/22 5:20:14 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.28 in chips)
+Seat 4: Williams1015 ($0.80 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($1.23 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+MAAE959: posts small blind $0.01
+GreyWolf9999: posts big blind $0.02
+immersteif: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Kd Ad]
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.04 to $0.06
+Williams1015: calls $0.06
+Aristarh0: folds
+MAAE959: calls $0.05
+GreyWolf9999 is disconnected
+GreyWolf9999 has timed out
+GreyWolf9999: folds
+*** FLOP *** [5d 6s Ah]
+MAAE959: checks
+StuffedPeppr: checks
+Williams1015: checks
+*** TURN *** [5d 6s Ah] [Ts]
+MAAE959: bets $0.06
+StuffedPeppr: calls $0.06
+Williams1015: calls $0.06
+*** RIVER *** [5d 6s Ah Ts] [7s]
+MAAE959: bets $0.08
+StuffedPeppr: calls $0.08
+Williams1015: folds
+*** SHOW DOWN ***
+MAAE959: shows [Qh Ac] (a pair of Aces)
+StuffedPeppr: shows [Kd Ad] (a pair of Aces - King kicker)
+StuffedPeppr collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02
+Board [5d 6s Ah Ts 7s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr showed [Kd Ad] and won ($0.52) with a pair of Aces
+Seat 4: Williams1015 folded on the River
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: MAAE959 (small blind) showed [Qh Ac] and lost with a pair of Aces
+Seat 8: GreyWolf9999 (big blind) folded before Flop
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #208415536277:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:19:51 WET [2020/01/22 5:19:51 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.28 in chips)
+Seat 4: Williams1015 ($0.13 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.29 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+Aristarh0: posts small blind $0.01
+MAAE959: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8c 4d]
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+Aristarh0: raises $0.04 to $0.06
+immersteif joins the table at seat #5
+MAAE959: calls $0.04
+*** FLOP *** [3c Ac 2c]
+Aristarh0: bets $0.06
+MAAE959: folds
+Uncalled bet ($0.06) returned to Aristarh0
+Aristarh0 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [3c Ac 2c]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) collected ($0.12)
+Seat 7: MAAE959 (big blind) folded on the Flop
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #208415535415:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:19:48 WET [2020/01/22 5:19:48 ET]
+Table 'Patroclus II' 9-max Seat #1 is the button
+Seat 1: voronDOK ($1.45 in chips)
+Seat 2: RubbisTK ($2.60 in chips)
+Seat 3: trukot ($5.33 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($1.94 in chips)
+Seat 9: KyJIaKoB ($2.16 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Td 9c]
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+Electronikus: raises $0.04 to $0.06
+KyJIaKoB: calls $0.06
+voronDOK: folds
+RubbisTK: folds
+trukot: calls $0.04
+*** FLOP *** [Qh 6h 9h]
+trukot: checks
+Electronikus: checks
+KyJIaKoB: bets $0.10
+trukot: folds
+Electronikus: folds
+Uncalled bet ($0.10) returned to KyJIaKoB
+KyJIaKoB collected $0.18 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [Qh 6h 9h]
+Seat 1: voronDOK (button) folded before Flop (didn't bet)
+Seat 2: RubbisTK (small blind) folded before Flop
+Seat 3: trukot (big blind) folded on the Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded on the Flop
+Seat 9: KyJIaKoB collected ($0.18)
+
+
+*********** # 20 **************
+PokerStars Hand #208415527493:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:19:16 WET [2020/01/22 5:19:16 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.28 in chips)
+Seat 4: Williams1015 ($0.14 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+Williams1015: posts small blind $0.01
+hatfield2411: is sitting out
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8h 2c]
+MAAE959: calls $0.02
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+hatfield2411 leaves the table
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+Aristarh0: checks
+*** FLOP *** [Kd 5h 7c]
+Aristarh0: bets $0.05
+MAAE959: folds
+Uncalled bet ($0.05) returned to Aristarh0
+Aristarh0 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [Kd 5h 7c]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 4: Williams1015 (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) collected ($0.05)
+Seat 7: MAAE959 folded on the Flop
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #208415521301:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:18:52 WET [2020/01/22 5:18:52 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 1: voronDOK ($1.46 in chips)
+Seat 2: RubbisTK ($2.62 in chips)
+Seat 3: trukot ($5.39 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($2 in chips)
+Seat 9: KyJIaKoB ($2.01 in chips)
+voronDOK: posts small blind $0.01
+RubbisTK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9d 3h]
+trukot: raises $0.04 to $0.06
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+Electronikus: calls $0.06
+KyJIaKoB: raises $0.20 to $0.26
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+Electronikus: folds
+Uncalled bet ($0.20) returned to KyJIaKoB
+KyJIaKoB collected $0.21 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.21 | Rake $0
+Seat 1: voronDOK (small blind) folded before Flop
+Seat 2: RubbisTK (big blind) folded before Flop
+Seat 3: trukot folded before Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop
+Seat 9: KyJIaKoB (button) collected ($0.21)
+
+
+*********** # 22 **************
+PokerStars Hand #208415515781:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:18:31 WET [2020/01/22 5:18:31 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.40 in chips)
+Seat 4: Williams1015 ($0.26 in chips)
+Seat 5: hatfield2411 ($1.95 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qs Ad]
+hatfield2411: raises $0.02 to $0.04
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.08 to $0.12
+Williams1015: calls $0.10
+hatfield2411: calls $0.08
+*** FLOP *** [2h Jd 2c]
+StuffedPeppr: checks
+Williams1015: checks
+hatfield2411: bets $0.13
+StuffedPeppr: folds
+Williams1015: folds
+Uncalled bet ($0.13) returned to hatfield2411
+hatfield2411 collected $0.35 from pot
+hatfield2411: doesn't show hand
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [2h Jd 2c]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (small blind) folded on the Flop
+Seat 4: Williams1015 (big blind) folded on the Flop
+Seat 5: hatfield2411 collected ($0.35)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 23 **************
+PokerStars Hand #208415500610:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:17:31 WET [2020/01/22 5:17:31 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.59 in chips)
+Seat 3: StuffedPeppr ($2.31 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.95 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [As Ac]
+Williams1015: raises $0.04 to $0.06
+hatfield2411: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.12 to $0.18
+Williams1015: calls $0.12
+*** FLOP *** [6c 7c Jc]
+StuffedPeppr: bets $0.24
+Williams1015: raises $0.74 to $0.98 and is all-in
+StuffedPeppr: calls $0.74
+*** TURN *** [6c 7c Jc] [5c]
+*** RIVER *** [6c 7c Jc 5c] [4h]
+*** SHOW DOWN ***
+StuffedPeppr: shows [As Ac] (a flush, Ace high)
+Williams1015: shows [Jh Qs] (a pair of Jacks)
+StuffedPeppr collected $2.25 from pot
+Williams1015 cashed out the hand for $0.26
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.08
+Board [6c 7c Jc 5c 4h]
+Seat 1: Castesso (button) folded before Flop (didn't bet)
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) showed [As Ac] and won ($2.25) with a flush, Ace high
+Seat 4: Williams1015 showed [Jh Qs] and lost with a pair of Jacks (cashed out).
+Seat 5: hatfield2411 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #208415499907:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:17:28 WET [2020/01/22 5:17:28 ET]
+Table 'Patroclus II' 9-max Seat #8 is the button
+Seat 1: voronDOK ($1.52 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.39 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.85 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($2.02 in chips)
+KyJIaKoB: posts small blind $0.01
+voronDOK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3s Qs]
+RubbisTK: raises $0.04 to $0.06
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory has timed out
+VladimirGory: folds
+heracles008: folds
+Electronikus: calls $0.06
+KyJIaKoB: folds
+voronDOK: calls $0.04
+*** FLOP *** [3d Kc 7c]
+voronDOK: checks
+RubbisTK: checks
+Electronikus: checks
+*** TURN *** [3d Kc 7c] [3h]
+voronDOK: checks
+RubbisTK: checks
+Electronikus: checks
+*** RIVER *** [3d Kc 7c 3h] [5h]
+voronDOK: checks
+RubbisTK: checks
+Electronikus: checks
+*** SHOW DOWN ***
+voronDOK: shows [6c 8c] (a pair of Threes)
+RubbisTK: shows [Js Jh] (two pair, Jacks and Threes)
+Electronikus: mucks hand
+RubbisTK collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [3d Kc 7c 3h 5h]
+Seat 1: voronDOK (big blind) showed [6c 8c] and lost with a pair of Threes
+Seat 2: RubbisTK showed [Js Jh] and won ($0.18) with two pair, Jacks and Threes
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus (button) mucked [Qc Jd]
+Seat 9: KyJIaKoB (small blind) folded before Flop
+
+
+*********** # 25 **************
+PokerStars Hand #208415495900:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:17:13 WET [2020/01/22 5:17:13 ET]
+Table 'Gansu' 9-max Seat #9 is the button
+Seat 1: Castesso ($2.45 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.31 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.95 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th 6d]
+StuffedPeppr: folds
+Williams1015: folds
+hatfield2411: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: raises $0.03 to $0.05
+CJHird: folds
+Uncalled bet ($0.03) returned to Castesso
+Castesso collected $0.04 from pot
+Castesso: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Castesso (small blind) collected ($0.04)
+Seat 2: CJHird (big blind) folded before Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: hatfield2411 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 (button) folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #208415485773:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:16:34 WET [2020/01/22 5:16:34 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.31 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.95 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($1.89 in chips)
+k4pe307: posts small blind $0.01
+Castesso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3s 4h]
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+hatfield2411: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: raises $0.03 to $0.05
+k4pe307: calls $0.04
+Castesso: calls $0.03
+*** FLOP *** [8c 6s Ah]
+k4pe307: checks
+Castesso: checks
+GreyWolf9999: bets $0.09
+k4pe307: folds
+Castesso: folds
+Uncalled bet ($0.09) returned to GreyWolf9999
+GreyWolf9999 collected $0.14 from pot
+GreyWolf9999: doesn't show hand
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [8c 6s Ah]
+Seat 1: Castesso (big blind) folded on the Flop
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: hatfield2411 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 (button) collected ($0.14)
+Seat 9: k4pe307 (small blind) folded on the Flop
+
+
+*********** # 27 **************
+PokerStars Hand #208415485417:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:16:32 WET [2020/01/22 5:16:32 ET]
+Table 'Patroclus II' 9-max Seat #7 is the button
+Seat 1: voronDOK ($1.52 in chips)
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.39 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 8: Electronikus ($2.07 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+Electronikus: posts small blind $0.01
+KyJIaKoB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qh 5c]
+voronDOK: folds
+RubbisTK: raises $0.04 to $0.06
+trukot: folds
+StuffedPeppr: folds
+soultee88: calls $0.06
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: raises $0.19 to $0.25
+RubbisTK: folds
+soultee88: folds
+Uncalled bet ($0.19) returned to KyJIaKoB
+KyJIaKoB collected $0.19 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop
+Seat 7: heracles008 (button) folded before Flop (didn't bet)
+Seat 8: Electronikus (small blind) folded before Flop
+Seat 9: KyJIaKoB (big blind) collected ($0.19)
+
+
+*********** # 28 **************
+PokerStars Hand #208415477332:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:16:01 WET [2020/01/22 5:16:01 ET]
+Table 'Patroclus II' 9-max Seat #6 is the button
+Seat 1: voronDOK ($1.52 in chips)
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.39 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.85 in chips)
+Seat 7: heracles008 ($2.01 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+heracles008: posts small blind $0.01
+Electronikus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5s 3h]
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory has timed out
+VladimirGory: folds
+heracles008: folds
+Uncalled bet ($0.01) returned to Electronikus
+Electronikus collected $0.02 from pot
+Electronikus: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory (button) folded before Flop (didn't bet)
+Seat 7: heracles008 (small blind) folded before Flop
+Seat 8: Electronikus (big blind) collected ($0.02)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 29 **************
+PokerStars Hand #208415470435:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:15:34 WET [2020/01/22 5:15:34 ET]
+Table 'Patroclus II' 9-max Seat #5 is the button
+Seat 1: voronDOK ($1.52 in chips)
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.36 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.86 in chips)
+Seat 7: heracles008 ($2.03 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+VladimirGory: posts small blind $0.01
+heracles008: posts big blind $0.02
+Electronikus: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ac 7d]
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: raises $0.02 to $0.04
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: folds
+heracles008: folds
+Uncalled bet ($0.02) returned to trukot
+trukot collected $0.05 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot collected ($0.05)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 (button) folded before Flop (didn't bet)
+Seat 6: VladimirGory (small blind) folded before Flop
+Seat 7: heracles008 (big blind) folded before Flop
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 30 **************
+PokerStars Hand #208415464951:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:15:12 WET [2020/01/22 5:15:12 ET]
+Table 'Gansu' 9-max Seat #7 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.31 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.70 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.31 in chips)
+Seat 8: GreyWolf9999 ($2.10 in chips)
+Seat 9: k4pe307 ($2.02 in chips)
+GreyWolf9999: posts small blind $0.01
+k4pe307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Td 3s]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015 has timed out
+Williams1015: folds
+hatfield2411: calls $0.02
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: raises $0.04 to $0.06
+k4pe307: calls $0.04
+hatfield2411: calls $0.04
+*** FLOP *** [Ah Jc 8d]
+GreyWolf9999: checks
+k4pe307: checks
+hatfield2411: bets $0.07
+GreyWolf9999: calls $0.07
+k4pe307: calls $0.07
+*** TURN *** [Ah Jc 8d] [Qc]
+GreyWolf9999: checks
+k4pe307: checks
+hatfield2411: bets $0.13
+GreyWolf9999: folds
+k4pe307: folds
+Uncalled bet ($0.13) returned to hatfield2411
+hatfield2411 collected $0.38 from pot
+hatfield2411: doesn't show hand
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01
+Board [Ah Jc 8d Qc]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: hatfield2411 collected ($0.38)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 (button) folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 (small blind) folded on the Turn
+Seat 9: k4pe307 (big blind) folded on the Turn
+
+
+*********** # 31 **************
+PokerStars Hand #208415457415:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:14:42 WET [2020/01/22 5:14:42 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: voronDOK ($1.69 in chips)
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($1.95 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.88 in chips)
+Seat 7: heracles008 ($2.03 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+soultee88: posts small blind $0.01
+VladimirGory: posts big blind $0.02
+Electronikus: sits out
+voronDOK: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Td 2s]
+heracles008: folds
+KyJIaKoB: folds
+voronDOK: raises $0.04 to $0.06
+RubbisTK: folds
+trukot: calls $0.06
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: folds
+*** FLOP *** [4d 7s 3d]
+voronDOK: checks
+trukot: bets $0.10
+voronDOK: calls $0.10
+*** TURN *** [4d 7s 3d] [Tc]
+voronDOK: checks
+trukot: bets $0.26
+voronDOK: folds
+Uncalled bet ($0.26) returned to trukot
+trukot collected $0.35 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [4d 7s 3d Tc]
+Seat 1: voronDOK folded on the Turn
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot collected ($0.35)
+Seat 4: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 5: soultee88 (small blind) folded before Flop
+Seat 6: VladimirGory (big blind) folded before Flop
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 32 **************
+PokerStars Hand #208415455031:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:14:32 WET [2020/01/22 5:14:32 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.31 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.60 in chips)
+Seat 6: Aristarh0 ($1.24 in chips)
+Seat 7: MAAE959 ($1.35 in chips)
+Seat 8: GreyWolf9999 ($2.12 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+MAAE959: posts small blind $0.01
+GreyWolf9999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9h Ks]
+k4pe307: calls $0.02
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+hatfield2411: raises $0.02 to $0.04
+Aristarh0: folds
+MAAE959: calls $0.03
+GreyWolf9999: folds
+k4pe307: calls $0.02
+*** FLOP *** [Jd 5s Kh]
+MAAE959: checks
+k4pe307: checks
+hatfield2411: bets $0.07
+MAAE959: folds
+k4pe307: folds
+Uncalled bet ($0.07) returned to hatfield2411
+hatfield2411 collected $0.14 from pot
+hatfield2411: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Board [Jd 5s Kh]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: hatfield2411 collected ($0.14)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: MAAE959 (small blind) folded on the Flop
+Seat 8: GreyWolf9999 (big blind) folded before Flop
+Seat 9: k4pe307 folded on the Flop
+
+
+*********** # 33 **************
+PokerStars Hand #208415446138:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:13:56 WET [2020/01/22 5:13:56 ET]
+Table 'Gansu' 9-max Seat #5 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.60 in chips)
+Seat 6: Aristarh0 ($1.25 in chips)
+Seat 7: MAAE959 ($1.41 in chips)
+Seat 8: GreyWolf9999 ($2.18 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+Aristarh0: posts small blind $0.01
+MAAE959: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jc Tc]
+GreyWolf9999: raises $0.04 to $0.06
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: calls $0.06
+Williams1015: folds
+hatfield2411: folds
+Aristarh0: folds
+MAAE959: calls $0.04
+*** FLOP *** [Jd 3d 2s]
+MAAE959: checks
+GreyWolf9999: checks
+StuffedPeppr: bets $0.10
+MAAE959: folds
+GreyWolf9999: folds
+Uncalled bet ($0.10) returned to StuffedPeppr
+StuffedPeppr collected $0.18 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [Jd 3d 2s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr collected ($0.18)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: hatfield2411 (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: MAAE959 (big blind) folded on the Flop
+Seat 8: GreyWolf9999 folded on the Flop
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #208415445255:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:13:53 WET [2020/01/22 5:13:53 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.10 in chips)
+Seat 4: StuffedPeppr ($1.98 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.88 in chips)
+Seat 7: heracles008 ($2.03 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9h As]
+VladimirGory: folds
+heracles008: folds
+KyJIaKoB: folds
+RubbisTK has timed out
+RubbisTK: folds
+trukot: raises $0.03 to $0.05
+StuffedPeppr: calls $0.04
+soultee88: folds
+*** FLOP *** [2d 4h Ks]
+StuffedPeppr: checks
+trukot: bets $0.06
+StuffedPeppr: folds
+Uncalled bet ($0.06) returned to trukot
+trukot collected $0.12 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [2d 4h Ks]
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) collected ($0.12)
+Seat 4: StuffedPeppr (small blind) folded on the Flop
+Seat 5: soultee88 (big blind) folded before Flop
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #208415441602:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:13:38 WET [2020/01/22 5:13:38 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.16 in chips)
+Seat 5: hatfield2411 ($1.61 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.41 in chips)
+Seat 8: GreyWolf9999 ($2.15 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+hatfield2411: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jc 6d]
+MAAE959: folds
+GreyWolf9999: raises $0.04 to $0.06
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+hatfield2411: folds
+Aristarh0: folds
+Uncalled bet ($0.04) returned to GreyWolf9999
+GreyWolf9999 collected $0.05 from pot
+GreyWolf9999: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) folded before Flop (didn't bet)
+Seat 5: hatfield2411 (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 collected ($0.05)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 36 **************
+PokerStars Hand #208415439593:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:13:30 WET [2020/01/22 5:13:30 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 2: RubbisTK ($2.56 in chips)
+Seat 3: trukot ($5.11 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.88 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Kc 5h]
+soultee88: folds
+VladimirGory: folds
+heracles008: raises $0.02 to $0.04
+KyJIaKoB: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+Uncalled bet ($0.02) returned to heracles008
+heracles008 collected $0.05 from pot
+heracles008: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) folded before Flop
+Seat 4: StuffedPeppr (big blind) folded before Flop
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: heracles008 collected ($0.05)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 37 **************
+PokerStars Hand #208415429453:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:12:49 WET [2020/01/22 5:12:49 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6d 5c]
+StuffedPeppr: folds
+soultee88: folds
+heracles008: folds
+KyJIaKoB: folds
+RubbisTK: raises $0.04 to $0.06
+trukot: calls $0.04
+*** FLOP *** [Jc 7h 7s]
+RubbisTK: bets $0.07
+trukot: folds
+Uncalled bet ($0.07) returned to RubbisTK
+RubbisTK collected $0.12 from pot
+RubbisTK: doesn't show hand
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [Jc 7h 7s]
+Seat 2: RubbisTK (small blind) collected ($0.12)
+Seat 3: trukot (big blind) folded on the Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (button) folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #208415428796:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:12:47 WET [2020/01/22 5:12:47 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.17 in chips)
+Seat 5: hatfield2411 ($1.76 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.41 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+Williams1015: posts small blind $0.01
+hatfield2411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7s 4c]
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: raises $0.04 to $0.06
+k4pe307: folds
+Castesso: folds
+CJHird has timed out
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+hatfield2411: calls $0.04
+*** FLOP *** [3d 2c Jh]
+hatfield2411: checks
+GreyWolf9999: bets $0.09
+hatfield2411: calls $0.09
+*** TURN *** [3d 2c Jh] [Qh]
+hatfield2411: checks
+GreyWolf9999: bets $0.20
+hatfield2411: folds
+Uncalled bet ($0.20) returned to GreyWolf9999
+GreyWolf9999 collected $0.30 from pot
+GreyWolf9999: doesn't show hand
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01
+Board [3d 2c Jh Qh]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 4: Williams1015 (small blind) folded before Flop
+Seat 5: hatfield2411 (big blind) folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 collected ($0.30)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 39 **************
+PokerStars Hand #208415422410:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:12:21 WET [2020/01/22 5:12:21 ET]
+Table 'Patroclus II' 9-max Seat #7 is the button
+Seat 1: voronDOK ($1.71 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($1.88 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.88 in chips)
+Seat 7: heracles008 ($1.97 in chips)
+Seat 9: KyJIaKoB ($1.90 in chips)
+KyJIaKoB: posts small blind $0.01
+voronDOK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9d 4c]
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory has timed out
+VladimirGory: folds
+heracles008: raises $0.02 to $0.04
+KyJIaKoB: folds
+voronDOK: folds
+Uncalled bet ($0.02) returned to heracles008
+heracles008 collected $0.05 from pot
+heracles008: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: voronDOK (big blind) folded before Flop
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: heracles008 (button) collected ($0.05)
+Seat 9: KyJIaKoB (small blind) folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #208415412361:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:11:40 WET [2020/01/22 5:11:40 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.61 in chips)
+Seat 3: StuffedPeppr ($2.20 in chips)
+Seat 4: Williams1015 ($1.21 in chips)
+Seat 5: hatfield2411 ($1.80 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.32 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+hatfield2411: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8c Td]
+hatfield2411: checks
+Aristarh0: folds
+MAAE959: raises $0.02 to $0.04
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.02
+hatfield2411: calls $0.02
+*** FLOP *** [Qc Jc Ks]
+Williams1015: checks
+hatfield2411: checks
+MAAE959: checks
+*** TURN *** [Qc Jc Ks] [9h]
+Williams1015: checks
+hatfield2411: checks
+MAAE959: checks
+*** RIVER *** [Qc Jc Ks 9h] [7s]
+Williams1015: checks
+hatfield2411: checks
+MAAE959: bets $0.07
+Williams1015: folds
+hatfield2411: folds
+Uncalled bet ($0.07) returned to MAAE959
+MAAE959 collected $0.13 from pot
+MAAE959: doesn't show hand
+*** SUMMARY ***
+Total pot $0.13 | Rake $0
+Board [Qc Jc Ks 9h 7s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (small blind) folded before Flop
+Seat 4: Williams1015 (big blind) folded on the River
+Seat 5: hatfield2411 folded on the River
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 collected ($0.13)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 41 **************
+PokerStars Hand #208415406672:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:11:16 WET [2020/01/22 5:11:16 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.50 in chips)
+Seat 2: CJHird ($0.62 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.21 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.32 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+hatfield2411 joins the table at seat #5
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [4c Kd]
+Williams1015 has timed out
+Williams1015: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+Uncalled bet ($0.01) returned to StuffedPeppr
+StuffedPeppr collected $0.02 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Castesso (button) folded before Flop (didn't bet)
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) collected ($0.02)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 42 **************
+PokerStars Hand #208415403236:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:11:03 WET [2020/01/22 5:11:03 ET]
+Table 'Gansu' 9-max Seat #9 is the button
+Seat 1: Castesso ($2.51 in chips)
+Seat 2: CJHird ($0.64 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.18 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.32 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.06 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8d As]
+KingSklasse leaves the table
+StuffedPeppr: folds
+Williams1015: raises $0.04 to $0.06
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+Uncalled bet ($0.04) returned to Williams1015
+Williams1015 collected $0.05 from pot
+Williams1015: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso (small blind) folded before Flop
+Seat 2: CJHird (big blind) folded before Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 collected ($0.05)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 (button) folded before Flop (didn't bet)
+
+
+*********** # 43 **************
+PokerStars Hand #208415395570:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:10:32 WET [2020/01/22 5:10:32 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.53 in chips)
+Seat 2: CJHird ($0.64 in chips)
+Seat 3: StuffedPeppr ($2.19 in chips)
+Seat 4: Williams1015 ($1.18 in chips)
+Seat 5: KingSklasse ($1.12 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.29 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.07 in chips)
+k4pe307: posts small blind $0.01
+Castesso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Tc 6d]
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: raises $0.02 to $0.04
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: folds
+Uncalled bet ($0.02) returned to MAAE959
+MAAE959 collected $0.05 from pot
+MAAE959: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso (big blind) folded before Flop
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 collected ($0.05)
+Seat 8: GreyWolf9999 (button) folded before Flop (didn't bet)
+Seat 9: k4pe307 (small blind) folded before Flop
+
+
+*********** # 44 **************
+PokerStars Hand #208415392246:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:10:19 WET [2020/01/22 5:10:19 ET]
+Table 'Patroclus II' 9-max Seat #6 is the button
+Seat 1: voronDOK ($1.04 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($2.18 in chips)
+Seat 5: soultee88 ($2.14 in chips)
+Seat 6: VladimirGory ($1.88 in chips)
+Seat 7: heracles008 ($1.98 in chips)
+Seat 9: KyJIaKoB ($2 in chips)
+heracles008: posts small blind $0.01
+KyJIaKoB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qc Ah]
+voronDOK: calls $0.02
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: raises $0.08 to $0.10
+soultee88: calls $0.10
+VladimirGory: folds
+heracles008: folds
+KyJIaKoB: calls $0.08
+voronDOK: calls $0.08
+*** FLOP *** [3s 4c 2h]
+KyJIaKoB: checks
+voronDOK: checks
+StuffedPeppr: checks
+soultee88: checks
+*** TURN *** [3s 4c 2h] [8s]
+KyJIaKoB: checks
+voronDOK: bets $0.20
+StuffedPeppr: calls $0.20
+soultee88: calls $0.20
+KyJIaKoB: folds
+*** RIVER *** [3s 4c 2h 8s] [4s]
+voronDOK: bets $0.49
+StuffedPeppr: folds
+soultee88: folds
+Uncalled bet ($0.49) returned to voronDOK
+voronDOK collected $0.97 from pot
+voronDOK: doesn't show hand
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04
+Board [3s 4c 2h 8s 4s]
+Seat 1: voronDOK collected ($0.97)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded on the River
+Seat 5: soultee88 folded on the River
+Seat 6: VladimirGory (button) folded before Flop (didn't bet)
+Seat 7: heracles008 (small blind) folded before Flop
+Seat 9: KyJIaKoB (big blind) folded on the Turn
+
+
+*********** # 45 **************
+PokerStars Hand #208415387077:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:09:58 WET [2020/01/22 5:09:58 ET]
+Table 'Gansu' 9-max Seat #7 is the button
+Seat 1: Castesso ($2.53 in chips)
+Seat 2: CJHird ($0.64 in chips)
+Seat 3: StuffedPeppr ($2.11 in chips)
+Seat 4: Williams1015 ($1.24 in chips)
+Seat 5: KingSklasse ($1.12 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.29 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.09 in chips)
+GreyWolf9999: posts small blind $0.01
+k4pe307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Js Jd]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.04 to $0.06
+Williams1015: calls $0.06
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+*** FLOP *** [2s 6d 9d]
+StuffedPeppr: bets $0.08
+Williams1015: folds
+Uncalled bet ($0.08) returned to StuffedPeppr
+StuffedPeppr collected $0.14 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [2s 6d 9d]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr collected ($0.14)
+Seat 4: Williams1015 folded on the Flop
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 (button) folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 (small blind) folded before Flop
+Seat 9: k4pe307 (big blind) folded before Flop
+
+
+*********** # 46 **************
+PokerStars Hand #208415383434:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:09:44 WET [2020/01/22 5:09:44 ET]
+Table 'Patroclus II' 9-max Seat #5 is the button
+Seat 1: voronDOK ($1.04 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($2.24 in chips)
+Seat 5: soultee88 ($2.14 in chips)
+Seat 6: VladimirGory ($1.80 in chips)
+Seat 7: heracles008 ($2 in chips)
+Seat 9: KyJIaKoB ($2 in chips)
+VladimirGory: posts small blind $0.01
+heracles008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8d 8h]
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: raises $0.04 to $0.06
+soultee88: folds
+VladimirGory: raises $0.10 to $0.16
+heracles008: folds
+StuffedPeppr: folds
+Uncalled bet ($0.10) returned to VladimirGory
+VladimirGory collected $0.14 from pot
+VladimirGory: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop
+Seat 5: soultee88 (button) folded before Flop (didn't bet)
+Seat 6: VladimirGory (small blind) collected ($0.14)
+Seat 7: heracles008 (big blind) folded before Flop
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 47 **************
+PokerStars Hand #208415370146:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:08:50 WET [2020/01/22 5:08:50 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.70 in chips)
+Seat 3: StuffedPeppr ($2.11 in chips)
+Seat 4: Williams1015 ($1.24 in chips)
+Seat 5: KingSklasse ($1.47 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.30 in chips)
+Seat 8: GreyWolf9999 ($2 in chips)
+Seat 9: k4pe307 ($2.09 in chips)
+MAAE959: posts small blind $0.01
+GreyWolf9999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Tc 3d]
+k4pe307: folds
+Castesso: raises $0.04 to $0.06
+CJHird: calls $0.06
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: calls $0.06
+Aristarh0: folds
+MAAE959: folds
+GreyWolf9999: folds
+*** FLOP *** [8d 5d Jd]
+Castesso: bets $0.11
+CJHird: folds
+KingSklasse: calls $0.11
+*** TURN *** [8d 5d Jd] [6s]
+Castesso: bets $0.18
+KingSklasse: calls $0.18
+*** RIVER *** [8d 5d Jd 6s] [8s]
+Castesso: checks
+KingSklasse: checks
+*** SHOW DOWN ***
+Castesso: shows [Ah As] (two pair, Aces and Eights)
+KingSklasse: mucks hand
+Castesso collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03
+Board [8d 5d Jd 6s 8s]
+Seat 1: Castesso showed [Ah As] and won ($0.76) with two pair, Aces and Eights
+Seat 2: CJHird folded on the Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse mucked [Ad 7c]
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: MAAE959 (small blind) folded before Flop
+Seat 8: GreyWolf9999 (big blind) folded before Flop
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #208415365196:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:08:30 WET [2020/01/22 5:08:30 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: voronDOK ($1.04 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($2.37 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.82 in chips)
+Seat 9: KyJIaKoB ($0.41 in chips)
+soultee88: posts small blind $0.01
+VladimirGory: posts big blind $0.02
+heracles008: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jd Th]
+KyJIaKoB: folds
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: raises $0.04 to $0.06
+soultee88: calls $0.05
+VladimirGory: folds
+*** FLOP *** [Ad 5d Qh]
+soultee88: checks
+StuffedPeppr: checks
+*** TURN *** [Ad 5d Qh] [2c]
+soultee88: checks
+StuffedPeppr: bets $0.07
+soultee88: calls $0.07
+*** RIVER *** [Ad 5d Qh 2c] [6h]
+soultee88: checks
+StuffedPeppr: checks
+*** SHOW DOWN ***
+soultee88: shows [Qs Kd] (a pair of Queens)
+StuffedPeppr: mucks hand
+soultee88 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [Ad 5d Qh 2c 6h]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (button) mucked [Jd Th]
+Seat 5: soultee88 (small blind) showed [Qs Kd] and won ($0.27) with a pair of Queens
+Seat 6: VladimirGory (big blind) folded before Flop
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 49 **************
+PokerStars Hand #208415360253:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:08:10 WET [2020/01/22 5:08:10 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: voronDOK ($1.06 in chips)
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($5.17 in chips)
+Seat 4: StuffedPeppr ($2.38 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.82 in chips)
+Seat 9: KyJIaKoB ($0.36 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+heracles008: sits out
+voronDOK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [As 3d]
+VladimirGory: folds
+KyJIaKoB: raises $0.34 to $0.36 and is all-in
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+Uncalled bet ($0.34) returned to KyJIaKoB
+KyJIaKoB collected $0.07 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.07 | Rake $0
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded before Flop
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 9: KyJIaKoB collected ($0.07)
+
+
+*********** # 50 **************
+PokerStars Hand #208415356028:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:07:53 WET [2020/01/22 5:07:53 ET]
+Table 'Gansu' 9-max Seat #5 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.70 in chips)
+Seat 3: StuffedPeppr ($2.11 in chips)
+Seat 4: Williams1015 ($1.50 in chips)
+Seat 5: KingSklasse ($1.47 in chips)
+Seat 6: Aristarh0 ($1.28 in chips)
+Seat 7: MAAE959 ($1.05 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.09 in chips)
+Aristarh0: posts small blind $0.01
+MAAE959: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [2d 4s]
+Hannelore900: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: raises $0.04 to $0.06
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: calls $0.04
+*** FLOP *** [8h 8d 7d]
+MAAE959: checks
+Williams1015: bets $0.07
+MAAE959: calls $0.07
+*** TURN *** [8h 8d 7d] [Td]
+MAAE959: checks
+Williams1015: checks
+*** RIVER *** [8h 8d 7d Td] [6s]
+MAAE959: bets $0.13
+Hannelore900 leaves the table
+GreyWolf9999 joins the table at seat #8
+Williams1015: calls $0.13
+*** SHOW DOWN ***
+MAAE959: shows [5d 5c] (two pair, Eights and Fives)
+Williams1015: mucks hand
+MAAE959 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [8h 8d 7d Td 6s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 mucked [3h 3s]
+Seat 5: KingSklasse (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: MAAE959 (big blind) showed [5d 5c] and won ($0.51) with two pair, Eights and Fives
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 51 **************
+PokerStars Hand #208415348622:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:07:23 WET [2020/01/22 5:07:23 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.70 in chips)
+Seat 3: StuffedPeppr ($2.11 in chips)
+Seat 4: Williams1015 ($1.50 in chips)
+Seat 5: KingSklasse ($1.48 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.05 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.09 in chips)
+KingSklasse: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5s Js]
+MAAE959: folds
+Hannelore900: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: folds
+Uncalled bet ($0.01) returned to Aristarh0
+Aristarh0 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) folded before Flop (didn't bet)
+Seat 5: KingSklasse (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) collected ($0.02)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 52 **************
+PokerStars Hand #208415345773:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:07:12 WET [2020/01/22 5:07:12 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 2: RubbisTK ($2.50 in chips)
+Seat 3: trukot ($2.67 in chips)
+Seat 4: StuffedPeppr ($2.40 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.82 in chips)
+Seat 9: KyJIaKoB ($3.03 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+heracles008: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th 5d]
+soultee88: folds
+VladimirGory: folds
+KyJIaKoB: raises $0.04 to $0.06
+RubbisTK: folds
+trukot: raises $0.18 to $0.24
+StuffedPeppr: folds
+Hannelore900 leaves the table
+KyJIaKoB: raises $0.26 to $0.50
+trukot: raises $2.17 to $2.67 and is all-in
+voronDOK joins the table at seat #1
+KyJIaKoB: calls $2.17
+*** FLOP *** [5c 8s Ks]
+*** TURN *** [5c 8s Ks] [Jc]
+*** RIVER *** [5c 8s Ks Jc] [Qh]
+*** SHOW DOWN ***
+trukot: shows [Ah Kc] (a pair of Kings)
+KyJIaKoB: shows [Qd Ad] (a pair of Queens)
+trukot collected $5.17 from pot
+*** SUMMARY ***
+Total pot $5.36 | Rake $0.19
+Board [5c 8s Ks Jc Qh]
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) showed [Ah Kc] and won ($5.17) with a pair of Kings
+Seat 4: StuffedPeppr (big blind) folded before Flop
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 9: KyJIaKoB showed [Qd Ad] and lost with a pair of Queens
+
+
+*********** # 53 **************
+PokerStars Hand #208415341214:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:06:54 WET [2020/01/22 5:06:54 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.66 in chips)
+Seat 4: StuffedPeppr ($2.40 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.82 in chips)
+Seat 9: KyJIaKoB ($3.03 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+heracles008: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jc Th]
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: folds
+KyJIaKoB: folds
+RubbisTK: folds
+Uncalled bet ($0.01) returned to trukot
+trukot collected $0.02 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 2: RubbisTK (small blind) folded before Flop
+Seat 3: trukot (big blind) collected ($0.02)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (button) folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #208415337470:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:06:39 WET [2020/01/22 5:06:39 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.70 in chips)
+Seat 3: StuffedPeppr ($2.11 in chips)
+Seat 4: Williams1015 ($1.48 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1.05 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.09 in chips)
+Williams1015: posts small blind $0.01
+KingSklasse: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [2s Kc]
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+k4pe307: folds
+Castesso: folds
+CJHird has timed out
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.01
+KingSklasse: checks
+*** FLOP *** [8s 2c Ac]
+Williams1015: checks
+KingSklasse: checks
+*** TURN *** [8s 2c Ac] [4h]
+Williams1015: bets $0.02
+KingSklasse: folds
+Uncalled bet ($0.02) returned to Williams1015
+Williams1015 collected $0.04 from pot
+Williams1015: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Board [8s 2c Ac 4h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 4: Williams1015 (small blind) collected ($0.04)
+Seat 5: KingSklasse (big blind) folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #208415334993:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:06:28 WET [2020/01/22 5:06:28 ET]
+Table 'Patroclus II' 9-max Seat #6 is the button
+Seat 1: Hannelore900 ($0.78 in chips)
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.66 in chips)
+Seat 4: StuffedPeppr ($2.40 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.82 in chips)
+Seat 9: KyJIaKoB ($2.30 in chips)
+KyJIaKoB: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Kh 6d]
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: folds
+KyJIaKoB: raises $0.04 to $0.06
+Hannelore900: raises $0.72 to $0.78 and is all-in
+KyJIaKoB: calls $0.72
+*** FLOP *** [4c 2c 3s]
+heracles008 joins the table at seat #7
+*** TURN *** [4c 2c 3s] [Kc]
+*** RIVER *** [4c 2c 3s Kc] [9d]
+*** SHOW DOWN ***
+KyJIaKoB: shows [Ks Kd] (three of a kind, Kings)
+Hannelore900: shows [Ah Qs] (high card Ace)
+KyJIaKoB collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05
+Board [4c 2c 3s Kc 9d]
+Seat 1: Hannelore900 (big blind) showed [Ah Qs] and lost with high card Ace
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 6: VladimirGory (button) folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (small blind) showed [Ks Kd] and won ($1.51) with three of a kind, Kings
+
+
+*********** # 56 **************
+PokerStars Hand #208415322241:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:05:38 WET [2020/01/22 5:05:38 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.72 in chips)
+Seat 3: StuffedPeppr ($2.13 in chips)
+Seat 4: Williams1015 ($1.55 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.04 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ts Kc]
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: calls $0.02
+Hannelore900: folds
+k4pe307: calls $0.02
+Castesso: folds
+CJHird: calls $0.02
+StuffedPeppr: calls $0.01
+Williams1015: checks
+*** FLOP *** [7d Qc Ad]
+StuffedPeppr: checks
+Williams1015: checks
+MAAE959: bets $0.05
+k4pe307: calls $0.05
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.05
+*** TURN *** [7d Qc Ad] [3d]
+Williams1015: checks
+MAAE959: checks
+k4pe307: checks
+*** RIVER *** [7d Qc Ad 3d] [Js]
+Williams1015: checks
+MAAE959: checks
+k4pe307: checks
+*** SHOW DOWN ***
+Williams1015: shows [As 6s] (a pair of Aces)
+MAAE959: shows [8s Ac] (a pair of Aces - Queen+Jack+Eight kicker)
+k4pe307: shows [8h Ah] (a pair of Aces)
+MAAE959 collected $0.12 from pot
+k4pe307 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [7d Qc Ad 3d Js]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) folded on the Flop
+Seat 3: StuffedPeppr (small blind) folded on the Flop
+Seat 4: Williams1015 (big blind) showed [As 6s] and lost with a pair of Aces
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 showed [8s Ac] and won ($0.12) with a pair of Aces
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 showed [8h Ah] and won ($0.12) with a pair of Aces
+
+
+*********** # 57 **************
+PokerStars Hand #208415322174:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:05:37 WET [2020/01/22 5:05:37 ET]
+Table 'Patroclus II' 9-max Seat #5 is the button
+Seat 1: Hannelore900 ($0.96 in chips)
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.66 in chips)
+Seat 4: StuffedPeppr ($2.40 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.94 in chips)
+Seat 9: KyJIaKoB ($2.02 in chips)
+VladimirGory: posts small blind $0.01
+Electronikus: is sitting out
+KyJIaKoB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8h Qh]
+Hannelore900: calls $0.02
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: raises $0.04 to $0.06
+KyJIaKoB: calls $0.04
+Hannelore900: calls $0.04
+*** FLOP *** [4c Tc 4s]
+VladimirGory: bets $0.06
+KyJIaKoB: raises $0.06 to $0.12
+Hannelore900: calls $0.12
+VladimirGory: folds
+*** TURN *** [4c Tc 4s] [Th]
+KyJIaKoB: checks
+Hannelore900: checks
+*** RIVER *** [4c Tc 4s Th] [Jh]
+KyJIaKoB: checks
+Hannelore900: checks
+*** SHOW DOWN ***
+KyJIaKoB: shows [Ad 7d] (two pair, Tens and Fours)
+Hannelore900: mucks hand
+KyJIaKoB collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02
+Board [4c Tc 4s Th Jh]
+Seat 1: Hannelore900 mucked [3c Kc]
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 5: soultee88 (button) folded before Flop (didn't bet)
+Seat 6: VladimirGory (small blind) folded on the Flop
+Seat 9: KyJIaKoB (big blind) showed [Ad 7d] and won ($0.46) with two pair, Tens and Fours
+
+
+*********** # 58 **************
+PokerStars Hand #208415314221:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:05:05 WET [2020/01/22 5:05:05 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: Hannelore900 ($1.06 in chips)
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.54 in chips)
+Seat 4: StuffedPeppr ($2.40 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.96 in chips)
+Seat 7: verhasste ($1.50 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($2.02 in chips)
+soultee88: posts small blind $0.01
+VladimirGory: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jc 8s]
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: calls $0.02
+verhasste leaves the table
+RubbisTK: folds
+trukot: raises $0.08 to $0.10
+StuffedPeppr: folds
+soultee88: folds
+VladimirGory: folds
+Hannelore900: calls $0.08
+*** FLOP *** [8d 8c 2s]
+Hannelore900: checks
+trukot: bets $0.10
+Hannelore900: folds
+Uncalled bet ($0.10) returned to trukot
+trukot collected $0.22 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [8d 8c 2s]
+Seat 1: Hannelore900 folded on the Flop
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot collected ($0.22)
+Seat 4: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 5: soultee88 (small blind) folded before Flop
+Seat 6: VladimirGory (big blind) folded before Flop
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 59 **************
+PokerStars Hand #208415310202:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:04:50 WET [2020/01/22 5:04:50 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.73 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.55 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($1 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.01 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5h Qs]
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+k4pe307: calls $0.02
+Castesso: folds
+CJHird: folds
+StuffedPeppr: checks
+*** FLOP *** [7c 8s 3h]
+StuffedPeppr: checks
+k4pe307: checks
+*** TURN *** [7c 8s 3h] [Ah]
+StuffedPeppr: checks
+k4pe307: checks
+*** RIVER *** [7c 8s 3h Ah] [9d]
+StuffedPeppr: checks
+k4pe307: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [5h Qs] (high card Ace)
+k4pe307: shows [6h 7h] (a pair of Sevens)
+k4pe307 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Board [7c 8s 3h Ah 9d]
+Seat 1: Castesso (button) folded before Flop (didn't bet)
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) showed [5h Qs] and lost with high card Ace
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 showed [6h 7h] and won ($0.05) with a pair of Sevens
+
+
+*********** # 60 **************
+PokerStars Hand #208415309175:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:04:46 WET [2020/01/22 5:04:46 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: Hannelore900 ($1.06 in chips)
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.54 in chips)
+Seat 4: StuffedPeppr ($2.41 in chips)
+Seat 5: soultee88 ($2 in chips)
+Seat 6: VladimirGory ($1.96 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($2.02 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8c Kc]
+VladimirGory: folds
+verhasste: raises $0.02 to $0.04
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: folds
+Uncalled bet ($0.02) returned to verhasste
+verhasste collected $0.05 from pot
+verhasste: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded before Flop
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: verhasste collected ($0.05)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 61 **************
+PokerStars Hand #208415305465:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:04:31 WET [2020/01/22 5:04:31 ET]
+Table 'Gansu' 9-max Seat #9 is the button
+Seat 1: Castesso ($2.13 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.01 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5c 8d]
+StuffedPeppr: folds
+Williams1015: raises $0.04 to $0.06
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: raises $0.15 to $0.21
+Hannelore900: folds
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+Williams1015: folds
+Uncalled bet ($0.15) returned to MAAE959
+MAAE959 collected $0.15 from pot
+MAAE959: doesn't show hand
+*** SUMMARY ***
+Total pot $0.15 | Rake $0
+Seat 1: Castesso (small blind) folded before Flop
+Seat 2: CJHird (big blind) folded before Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 collected ($0.15)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 (button) folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #208415295338:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:03:50 WET [2020/01/22 5:03:50 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.27 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.78 in chips)
+Seat 9: k4pe307 ($2.02 in chips)
+k4pe307: posts small blind $0.01
+Castesso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9h Ad]
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+k4pe307: folds
+Uncalled bet ($0.01) returned to Castesso
+Castesso collected $0.02 from pot
+Castesso: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Castesso (big blind) collected ($0.02)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 (button) folded before Flop (didn't bet)
+Seat 9: k4pe307 (small blind) folded before Flop
+
+
+*********** # 63 **************
+PokerStars Hand #208415290524:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:03:31 WET [2020/01/22 5:03:31 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: Hannelore900 ($1.27 in chips)
+Seat 2: RubbisTK ($2.51 in chips)
+Seat 3: trukot ($2.55 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.96 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($2.23 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jd Jh]
+VladimirGory: folds
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: raises $0.04 to $0.06
+Hannelore900: raises $0.15 to $0.21
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: calls $0.19
+KyJIaKoB: calls $0.15
+*** FLOP *** [Qs Js 9h]
+StuffedPeppr: checks
+KyJIaKoB: checks
+Hannelore900: checks
+*** TURN *** [Qs Js 9h] [8s]
+StuffedPeppr: checks
+KyJIaKoB: checks
+Hannelore900: checks
+*** RIVER *** [Qs Js 9h 8s] [7h]
+StuffedPeppr: checks
+KyJIaKoB: checks
+Hannelore900: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [Jd Jh] (three of a kind, Jacks)
+KyJIaKoB: mucks hand
+Hannelore900: mucks hand
+StuffedPeppr collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02
+Board [Qs Js 9h 8s 7h]
+Seat 1: Hannelore900 mucked [5h 5d]
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) folded before Flop
+Seat 4: StuffedPeppr (big blind) showed [Jd Jh] and won ($0.62) with three of a kind, Jacks
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB mucked [7d Ad]
+
+
+*********** # 64 **************
+PokerStars Hand #208415283503:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:03:03 WET [2020/01/22 5:03:03 ET]
+Table 'Gansu' 9-max Seat #7 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.50 in chips)
+Seat 6: Aristarh0 ($1.19 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.84 in chips)
+Seat 9: k4pe307 ($2.04 in chips)
+Hannelore900: posts small blind $0.01
+k4pe307: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6s 4c]
+Castesso: folds
+CJHird has timed out
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: raises $0.04 to $0.06
+MAAE959: folds
+Hannelore900: calls $0.05
+k4pe307: folds
+*** FLOP *** [9d 3s 9h]
+Hannelore900: checks
+Aristarh0: bets $1.13 and is all-in
+Hannelore900: folds
+Uncalled bet ($1.13) returned to Aristarh0
+Aristarh0 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Board [9d 3s 9h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 collected ($0.14)
+Seat 7: MAAE959 (button) folded before Flop (didn't bet)
+Seat 8: Hannelore900 (small blind) folded on the Flop
+Seat 9: k4pe307 (big blind) folded before Flop
+
+
+*********** # 65 **************
+PokerStars Hand #208415277597:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:02:40 WET [2020/01/22 5:02:40 ET]
+Table 'Patroclus II' 9-max Seat #1 is the button
+Seat 1: Hannelore900 ($1.18 in chips)
+Seat 2: RubbisTK ($2.59 in chips)
+Seat 3: trukot ($2.57 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.96 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($2.23 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5h 8d]
+StuffedPeppr: folds
+VladimirGory: folds
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: calls $0.02
+RubbisTK: raises $0.06 to $0.08
+trukot: folds
+Hannelore900: calls $0.06
+*** FLOP *** [3c 2d 9c]
+RubbisTK: checks
+Hannelore900: checks
+*** TURN *** [3c 2d 9c] [5s]
+RubbisTK: checks
+Hannelore900: bets $0.17
+RubbisTK: folds
+Uncalled bet ($0.17) returned to Hannelore900
+Hannelore900 collected $0.17 from pot
+Hannelore900: doesn't show hand
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01
+Board [3c 2d 9c 5s]
+Seat 1: Hannelore900 (button) collected ($0.17)
+Seat 2: RubbisTK (small blind) folded on the Turn
+Seat 3: trukot (big blind) folded before Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 66 **************
+PokerStars Hand #208415277561:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:02:40 WET [2020/01/22 5:02:40 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.52 in chips)
+Seat 6: Aristarh0 ($1.14 in chips)
+Seat 7: MAAE959 ($0.92 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+MAAE959: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+k4pe307: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6s 4c]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: calls $0.02
+Aristarh0: raises $0.07 to $0.09
+MAAE959: folds
+Hannelore900: folds
+KingSklasse: folds
+Uncalled bet ($0.07) returned to Aristarh0
+Aristarh0 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop
+Seat 6: Aristarh0 (button) collected ($0.07)
+Seat 7: MAAE959 (small blind) folded before Flop
+Seat 8: Hannelore900 (big blind) folded before Flop
+
+
+*********** # 67 **************
+PokerStars Hand #208415274229:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:02:26 WET [2020/01/22 5:02:26 ET]
+Table 'Gansu' 9-max Seat #5 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.52 in chips)
+Seat 6: Aristarh0 ($1.15 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+Aristarh0: posts small blind $0.01
+MAAE959: posts big blind $0.02
+k4pe307: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8h Kd]
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: folds
+Uncalled bet ($0.01) returned to MAAE959
+MAAE959 collected $0.02 from pot
+MAAE959: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: MAAE959 (big blind) collected ($0.02)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #208415264634:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:01:47 WET [2020/01/22 5:01:47 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 1: Hannelore900 ($1.19 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.96 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($1.88 in chips)
+Hannelore900: posts small blind $0.01
+RubbisTK: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th 9d]
+trukot: raises $0.03 to $0.05
+StuffedPeppr: folds
+VladimirGory: folds
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: raises $0.11 to $0.16
+Hannelore900: folds
+RubbisTK: folds
+trukot: calls $0.11
+*** FLOP *** [Ah 5h 2h]
+trukot: checks
+KyJIaKoB: bets $0.18
+trukot: calls $0.18
+*** TURN *** [Ah 5h 2h] [Jc]
+trukot: checks
+KyJIaKoB: bets $0.37
+trukot: folds
+Uncalled bet ($0.37) returned to KyJIaKoB
+KyJIaKoB collected $0.69 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02
+Board [Ah 5h 2h Jc]
+Seat 1: Hannelore900 (small blind) folded before Flop
+Seat 2: RubbisTK (big blind) folded before Flop
+Seat 3: trukot folded on the Turn
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 6: VladimirGory folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (button) collected ($0.69)
+
+
+*********** # 69 **************
+PokerStars Hand #208415264306:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:01:46 WET [2020/01/22 5:01:46 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.15 in chips)
+Seat 4: Williams1015 ($1.61 in chips)
+Seat 5: KingSklasse ($1.35 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+KingSklasse: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7h 6d]
+MAAE959: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: calls $0.01
+Aristarh0: checks
+*** FLOP *** [8h Ad 7c]
+KingSklasse: checks
+Aristarh0: bets $0.04
+KingSklasse: calls $0.04
+*** TURN *** [8h Ad 7c] [As]
+KingSklasse: checks
+Aristarh0: bets $0.12
+KingSklasse: calls $0.12
+*** RIVER *** [8h Ad 7c As] [Kh]
+KingSklasse: checks
+Aristarh0: checks
+*** SHOW DOWN ***
+KingSklasse: shows [Jd Js] (two pair, Aces and Jacks)
+Aristarh0: mucks hand
+KingSklasse collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01
+Board [8h Ad 7c As Kh]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) folded before Flop (didn't bet)
+Seat 5: KingSklasse (small blind) showed [Jd Js] and won ($0.35) with two pair, Aces and Jacks
+Seat 6: Aristarh0 (big blind) mucked [3h 8s]
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #208415258804:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:01:23 WET [2020/01/22 5:01:23 ET]
+Table 'Patroclus II' 9-max Seat #8 is the button
+Seat 1: Hannelore900 ($1.21 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.93 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.06 in chips)
+Seat 9: KyJIaKoB ($1.89 in chips)
+KyJIaKoB: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [4s Kh]
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+VladimirGory: raises $0.04 to $0.06
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: folds
+Uncalled bet ($0.04) returned to VladimirGory
+VladimirGory collected $0.05 from pot
+VladimirGory: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 (big blind) folded before Flop
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 6: VladimirGory collected ($0.05)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus (button) folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (small blind) folded before Flop
+
+
+*********** # 71 **************
+PokerStars Hand #208415258442:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:01:22 WET [2020/01/22 5:01:22 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.12 in chips)
+Seat 4: Williams1015 ($1.62 in chips)
+Seat 5: KingSklasse ($1.37 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+Williams1015: posts small blind $0.01
+KingSklasse: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ks 4c]
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.04 to $0.06
+Williams1015: folds
+KingSklasse: folds
+Uncalled bet ($0.04) returned to StuffedPeppr
+StuffedPeppr collected $0.05 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) collected ($0.05)
+Seat 4: Williams1015 (small blind) folded before Flop
+Seat 5: KingSklasse (big blind) folded before Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 72 **************
+PokerStars Hand #208415248192:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:00:39 WET [2020/01/22 5:00:39 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.75 in chips)
+Seat 3: StuffedPeppr ($2.01 in chips)
+Seat 4: Williams1015 ($1.72 in chips)
+Seat 5: KingSklasse ($1.39 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qc Ad]
+KingSklasse: calls $0.02
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.08 to $0.10
+Williams1015: calls $0.08
+KingSklasse: folds
+*** FLOP *** [Th As Qs]
+StuffedPeppr: checks
+Williams1015: checks
+*** TURN *** [Th As Qs] [5h]
+StuffedPeppr: bets $0.14
+Williams1015: folds
+Uncalled bet ($0.14) returned to StuffedPeppr
+StuffedPeppr collected $0.21 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [Th As Qs 5h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (small blind) collected ($0.21)
+Seat 4: Williams1015 (big blind) folded on the Turn
+Seat 5: KingSklasse folded before Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 73 **************
+PokerStars Hand #208415247121:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:00:34 WET [2020/01/22 5:00:34 ET]
+Table 'Patroclus II' 9-max Seat #7 is the button
+Seat 1: Hannelore900 ($1.21 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.85 in chips)
+Seat 7: verhasste ($1.47 in chips)
+Seat 8: Electronikus ($2.12 in chips)
+Seat 9: KyJIaKoB ($1.91 in chips)
+Electronikus: posts small blind $0.01
+KyJIaKoB: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Td 4s]
+Hannelore900: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+VladimirGory: raises $0.04 to $0.06
+verhasste: folds
+Electronikus: calls $0.05
+KyJIaKoB: folds
+*** FLOP *** [5d 6s Ts]
+Electronikus: checks
+VladimirGory: bets $0.14
+Electronikus: folds
+Uncalled bet ($0.14) returned to VladimirGory
+VladimirGory collected $0.14 from pot
+VladimirGory: doesn't show hand
+*** SUMMARY ***
+Total pot $0.14 | Rake $0
+Board [5d 6s Ts]
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 6: VladimirGory collected ($0.14)
+Seat 7: verhasste (button) folded before Flop (didn't bet)
+Seat 8: Electronikus (small blind) folded on the Flop
+Seat 9: KyJIaKoB (big blind) folded before Flop
+
+
+*********** # 74 **************
+PokerStars Hand #208415243992:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:00:19 WET [2020/01/22 5:00:19 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.12 in chips)
+Seat 2: CJHird ($0.76 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 4: Williams1015 ($1.72 in chips)
+Seat 5: KingSklasse ($1.39 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.91 in chips)
+Seat 8: Hannelore900 ($4.86 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [2c Ac]
+Williams1015: folds
+KingSklasse: folds
+Aristarh0: folds
+MAAE959: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+Uncalled bet ($0.01) returned to StuffedPeppr
+StuffedPeppr collected $0.02 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Castesso (button) folded before Flop (didn't bet)
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) collected ($0.02)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 75 **************
+PokerStars Hand #208415237696:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:59:49 WET [2020/01/22 4:59:49 ET]
+Table 'Patroclus II' 9-max Seat #6 is the button
+Seat 1: Hannelore900 ($1.21 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.97 in chips)
+Seat 7: verhasste ($1.48 in chips)
+Seat 8: Electronikus ($2 in chips)
+Seat 9: KyJIaKoB ($1.91 in chips)
+verhasste: posts small blind $0.01
+Electronikus: posts big blind $0.02
+soultee88: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [9s 6h]
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+VladimirGory: raises $0.04 to $0.06
+verhasste: folds
+Electronikus: raises $0.06 to $0.12
+VladimirGory: calls $0.06
+*** FLOP *** [5s Th 8h]
+Electronikus: bets $0.12
+VladimirGory: folds
+Uncalled bet ($0.12) returned to Electronikus
+Electronikus collected $0.24 from pot
+Electronikus: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [5s Th 8h]
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 6: VladimirGory (button) folded on the Flop
+Seat 7: verhasste (small blind) folded before Flop
+Seat 8: Electronikus (big blind) collected ($0.24)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 76 **************
+PokerStars Hand #208415232291:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:59:24 WET [2020/01/22 4:59:24 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.13 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 4: Williams1015 ($1.72 in chips)
+Seat 5: KingSklasse ($1.46 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($0.80 in chips)
+Seat 8: Hannelore900 ($4.88 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+MAAE959: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Js 4d]
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: calls $0.02
+Aristarh0: folds
+MAAE959: checks
+Hannelore900: calls $0.02
+Castesso: folds
+CJHird: checks
+*** FLOP *** [9s Qc 5c]
+CJHird: checks
+KingSklasse: checks
+MAAE959: bets $0.05
+Hannelore900: folds
+CJHird: folds
+KingSklasse: calls $0.05
+*** TURN *** [9s Qc 5c] [7h]
+KingSklasse: checks
+MAAE959: bets $0.09
+KingSklasse: folds
+Uncalled bet ($0.09) returned to MAAE959
+MAAE959 collected $0.18 from pot
+MAAE959: doesn't show hand
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [9s Qc 5c 7h]
+Seat 1: Castesso (small blind) folded before Flop
+Seat 2: CJHird (big blind) folded on the Flop
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: MAAE959 collected ($0.18)
+Seat 8: Hannelore900 (button) folded on the Flop
+
+
+*********** # 77 **************
+PokerStars Hand #208415228049:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:59:04 WET [2020/01/22 4:59:04 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: Hannelore900 ($1.97 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 6: VladimirGory ($1.98 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($2 in chips)
+Seat 9: KyJIaKoB ($1.91 in chips)
+VladimirGory: posts small blind $0.01
+verhasste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3c Jc]
+Electronikus: folds
+KyJIaKoB: folds
+soultee88 joins the table at seat #5
+Hannelore900: raises $0.05 to $0.07
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+VladimirGory: folds
+verhasste: raises $0.11 to $0.18
+Hannelore900: calls $0.11
+*** FLOP *** [8d Tc 7h]
+verhasste: bets $0.18
+Hannelore900: raises $0.72 to $0.90
+verhasste: calls $0.40 and is all-in
+Uncalled bet ($0.32) returned to Hannelore900
+*** TURN *** [8d Tc 7h] [3s]
+*** RIVER *** [8d Tc 7h 3s] [Td]
+*** SHOW DOWN ***
+verhasste: shows [Ad Ah] (two pair, Aces and Tens)
+Hannelore900: shows [Jd Jh] (two pair, Jacks and Tens)
+verhasste collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05
+Board [8d Tc 7h 3s Td]
+Seat 1: Hannelore900 showed [Jd Jh] and lost with two pair, Jacks and Tens
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 6: VladimirGory (small blind) folded before Flop
+Seat 7: verhasste (big blind) showed [Ad Ah] and won ($1.48) with two pair, Aces and Tens
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #208415221921:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:58:35 WET [2020/01/22 4:58:35 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.15 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 4: Williams1015 ($1.72 in chips)
+Seat 5: KingSklasse ($1.55 in chips)
+Seat 6: Aristarh0 ($0.88 in chips)
+Seat 8: Hannelore900 ($5.25 in chips)
+MAAE959 will be allowed to play after the button
+Hannelore900: posts small blind $0.01
+Castesso: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [4d Jh]
+CJHird has timed out
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: calls $0.02
+Aristarh0: raises $0.07 to $0.09
+Hannelore900: calls $0.08
+Castesso: folds
+KingSklasse: calls $0.07
+*** FLOP *** [Th Jd 5d]
+Hannelore900: checks
+KingSklasse: checks
+Aristarh0: bets $0.28
+Hannelore900: calls $0.28
+KingSklasse: folds
+*** TURN *** [Th Jd 5d] [5c]
+Hannelore900: checks
+Aristarh0: bets $0.51 and is all-in
+Hannelore900: folds
+Uncalled bet ($0.51) returned to Aristarh0
+Aristarh0 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03
+Board [Th Jd 5d 5c]
+Seat 1: Castesso (big blind) folded before Flop
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded on the Flop
+Seat 6: Aristarh0 (button) collected ($0.82)
+Seat 8: Hannelore900 (small blind) folded on the Turn
+
+
+*********** # 79 **************
+PokerStars Hand #208415221874:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:58:35 WET [2020/01/22 4:58:35 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: Hannelore900 ($1.97 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.88 in chips)
+Seat 4: StuffedPeppr ($2.01 in chips)
+Seat 6: VladimirGory ($2 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($2 in chips)
+Seat 9: KyJIaKoB ($1.91 in chips)
+StuffedPeppr: posts small blind $0.01
+VladimirGory: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qc 9h]
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+trukot: raises $0.04 to $0.06
+StuffedPeppr: folds
+VladimirGory: folds
+Uncalled bet ($0.04) returned to trukot
+trukot collected $0.05 from pot
+trukot: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) collected ($0.05)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 6: VladimirGory (big blind) folded before Flop
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 80 **************
+PokerStars Hand #208415218729:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:58:19 WET [2020/01/22 4:58:19 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: Hannelore900 ($1.97 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.89 in chips)
+Seat 4: StuffedPeppr ($2.03 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($1.97 in chips)
+Seat 9: KyJIaKoB ($1.91 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+w2tamm: sits out
+VladimirGory: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [2d Qs]
+verhasste: folds
+Electronikus: raises $0.04 to $0.06
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+w2tamm leaves the table
+trukot: folds
+StuffedPeppr: folds
+Uncalled bet ($0.04) returned to Electronikus
+Electronikus collected $0.05 from pot
+Electronikus: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) folded before Flop
+Seat 4: StuffedPeppr (big blind) folded before Flop
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus collected ($0.05)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 81 **************
+PokerStars Hand #208415209723:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:57:37 WET [2020/01/22 4:57:37 ET]
+Table 'Gansu' 9-max Seat #5 is the button
+Seat 1: Castesso ($2.15 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 4: Williams1015 ($1.59 in chips)
+Seat 5: KingSklasse ($1.55 in chips)
+Seat 6: Aristarh0 ($0.89 in chips)
+Seat 8: Hannelore900 ($5.38 in chips)
+Aristarh0: posts small blind $0.01
+AsoleXx: is sitting out
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5c Ks]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+AsoleXx leaves the table
+Williams1015: raises $0.04 to $0.06
+KingSklasse: folds
+Aristarh0: folds
+Hannelore900: calls $0.04
+*** FLOP *** [4h 2h 7d]
+Hannelore900: checks
+MAAE959 joins the table at seat #7
+Williams1015: bets $0.07
+Hannelore900: calls $0.07
+*** TURN *** [4h 2h 7d] [9h]
+Hannelore900: checks
+Williams1015: bets $0.13
+Hannelore900: folds
+Uncalled bet ($0.13) returned to Williams1015
+Williams1015 collected $0.26 from pot
+Williams1015: doesn't show hand
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01
+Board [4h 2h 7d 9h]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 collected ($0.26)
+Seat 5: KingSklasse (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 8: Hannelore900 (big blind) folded on the Turn
+
+
+*********** # 82 **************
+PokerStars Hand #208415205524:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:57:17 WET [2020/01/22 4:57:17 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.15 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 4: Williams1015 ($1.56 in chips)
+Seat 5: KingSklasse ($1.56 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.38 in chips)
+KingSklasse: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5c Ts]
+AsoleXx: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: raises $0.04 to $0.06
+KingSklasse: folds
+Aristarh0: folds
+Uncalled bet ($0.04) returned to Williams1015
+Williams1015 collected $0.05 from pot
+Williams1015: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) collected ($0.05)
+Seat 5: KingSklasse (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 83 **************
+PokerStars Hand #208415204526:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:57:12 WET [2020/01/22 4:57:12 ET]
+Table 'Patroclus II' 9-max Seat #1 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.62 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2.03 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($1.97 in chips)
+Seat 9: KyJIaKoB ($2.04 in chips)
+RubbisTK: posts small blind $0.01
+trukot: posts big blind $0.02
+w2tamm: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [2h 8d]
+StuffedPeppr: folds
+verhasste: folds
+Electronikus has timed out
+Electronikus: folds
+KyJIaKoB: raises $0.04 to $0.06
+Hannelore900: calls $0.06
+RubbisTK: folds
+trukot: folds
+*** FLOP *** [7d 7c 8c]
+KyJIaKoB: checks
+Hannelore900: bets $0.07
+VladimirGory joins the table at seat #6
+KyJIaKoB: calls $0.07
+*** TURN *** [7d 7c 8c] [3d]
+KyJIaKoB: checks
+Hannelore900: bets $0.14
+KyJIaKoB: folds
+Uncalled bet ($0.14) returned to Hannelore900
+Hannelore900 collected $0.28 from pot
+Hannelore900: doesn't show hand
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [7d 7c 8c 3d]
+Seat 1: Hannelore900 (button) collected ($0.28)
+Seat 2: RubbisTK (small blind) folded before Flop
+Seat 3: trukot (big blind) folded before Flop
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded on the Turn
+
+
+*********** # 84 **************
+PokerStars Hand #208415200878:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:56:55 WET [2020/01/22 4:56:55 ET]
+Table 'Patroclus II' 9-max Seat #9 is the button
+Seat 1: Hannelore900 ($1.83 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($1.97 in chips)
+Seat 9: KyJIaKoB ($2.04 in chips)
+Hannelore900: posts small blind $0.01
+RubbisTK: posts big blind $0.02
+w2tamm: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [4d 4c]
+trukot: folds
+StuffedPeppr: raises $0.04 to $0.06
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+Uncalled bet ($0.04) returned to StuffedPeppr
+StuffedPeppr collected $0.05 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 (small blind) folded before Flop
+Seat 2: RubbisTK (big blind) folded before Flop
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr collected ($0.05)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (button) folded before Flop (didn't bet)
+
+
+*********** # 85 **************
+PokerStars Hand #208415198568:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:56:44 WET [2020/01/22 4:56:44 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.15 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2.06 in chips)
+Seat 4: Williams1015 ($1.62 in chips)
+Seat 5: KingSklasse ($1.58 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.25 in chips)
+Williams1015: posts small blind $0.01
+KingSklasse: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8d 7s]
+Aristarh0: folds
+AsoleXx: folds
+Hannelore900: raises $0.04 to $0.06
+Castesso: folds
+CJHird: folds
+StuffedPeppr: calls $0.06
+Williams1015: calls $0.05
+KingSklasse: folds
+*** FLOP *** [Kd Ac 9d]
+Williams1015: checks
+Hannelore900: bets $0.19
+StuffedPeppr: folds
+Williams1015: folds
+Uncalled bet ($0.19) returned to Hannelore900
+Hannelore900 collected $0.19 from pot
+Hannelore900: doesn't show hand
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Kd Ac 9d]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded on the Flop
+Seat 4: Williams1015 (small blind) folded on the Flop
+Seat 5: KingSklasse (big blind) folded before Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 collected ($0.19)
+
+
+*********** # 86 **************
+PokerStars Hand #208415197252:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:56:37 WET [2020/01/22 4:56:37 ET]
+Table 'Patroclus II' 9-max Seat #8 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($1.97 in chips)
+Seat 9: KyJIaKoB ($2.05 in chips)
+KyJIaKoB: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+w2tamm: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5c Ah]
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+verhasste: folds
+Electronikus: folds
+KyJIaKoB: folds
+Uncalled bet ($0.01) returned to Hannelore900
+Hannelore900 collected $0.02 from pot
+Hannelore900: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Hannelore900 (big blind) collected ($0.02)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 8: Electronikus (button) folded before Flop (didn't bet)
+Seat 9: KyJIaKoB (small blind) folded before Flop
+
+
+*********** # 87 **************
+PokerStars Hand #208415193984:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:56:22 WET [2020/01/22 4:56:22 ET]
+Table 'Patroclus II' 9-max Seat #7 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 7: verhasste ($0.76 in chips)
+Seat 8: Electronikus ($1.98 in chips)
+Seat 9: KyJIaKoB ($2.04 in chips)
+Electronikus: posts small blind $0.01
+KyJIaKoB: posts big blind $0.02
+w2tamm: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jh Tc]
+Hannelore900: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+verhasste: folds
+Electronikus: folds
+Uncalled bet ($0.01) returned to KyJIaKoB
+KyJIaKoB collected $0.02 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.02 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr folded before Flop (didn't bet)
+Seat 7: verhasste (button) folded before Flop (didn't bet)
+Seat 8: Electronikus (small blind) folded before Flop
+Seat 9: KyJIaKoB (big blind) collected ($0.02)
+
+
+*********** # 88 **************
+PokerStars Hand #208415189636:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:56:01 WET [2020/01/22 4:56:01 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.21 in chips)
+Seat 2: CJHird ($0.78 in chips)
+Seat 3: StuffedPeppr ($2.07 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 5: KingSklasse ($1.64 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.07 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6d 7h]
+KingSklasse: calls $0.02
+Aristarh0: folds
+AsoleXx: folds
+Hannelore900: raises $0.04 to $0.06
+Castesso: calls $0.06
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.04
+KingSklasse: calls $0.04
+*** FLOP *** [As 8s 2h]
+Williams1015: checks
+KingSklasse: checks
+Hannelore900: bets $0.24
+Castesso: folds
+Williams1015: folds
+KingSklasse: folds
+Uncalled bet ($0.24) returned to Hannelore900
+Hannelore900 collected $0.24 from pot
+Hannelore900: doesn't show hand
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01
+Board [As 8s 2h]
+Seat 1: Castesso folded on the Flop
+Seat 2: CJHird (button) folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (small blind) folded before Flop
+Seat 4: Williams1015 (big blind) folded on the Flop
+Seat 5: KingSklasse folded on the Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 collected ($0.24)
+
+
+*********** # 89 **************
+PokerStars Hand #208415183860:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:55:33 WET [2020/01/22 4:55:33 ET]
+Table 'Patroclus II' 9-max Seat #4 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 7: verhasste ($0.77 in chips)
+Seat 8: Electronikus ($2 in chips)
+Seat 9: KyJIaKoB ($2.06 in chips)
+w2tamm will be allowed to play after the button
+verhasste: posts small blind $0.01
+Electronikus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Jh 6c]
+KyJIaKoB: raises $0.04 to $0.06
+Hannelore900: folds
+Alessvasaio leaves the table
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+verhasste: raises $0.10 to $0.16
+Electronikus: folds
+KyJIaKoB: raises $1.90 to $2.06 and is all-in
+verhasste: calls $0.61 and is all-in
+Uncalled bet ($1.29) returned to KyJIaKoB
+*** FLOP *** [Qs 9s 6s]
+*** TURN *** [Qs 9s 6s] [3s]
+*** RIVER *** [Qs 9s 6s 3s] [2c]
+*** SHOW DOWN ***
+verhasste: shows [Ac Kc] (high card Ace)
+KyJIaKoB: shows [Kh Ah] (high card Ace)
+verhasste collected $0.76 from pot
+KyJIaKoB collected $0.75 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.05
+Board [Qs 9s 6s 3s 2c]
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 7: verhasste (small blind) showed [Ac Kc] and won ($0.76) with high card Ace
+Seat 8: Electronikus (big blind) folded before Flop
+Seat 9: KyJIaKoB showed [Kh Ah] and won ($0.75) with high card Ace
+
+
+*********** # 90 **************
+PokerStars Hand #208415182248:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:55:25 WET [2020/01/22 4:55:25 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.27 in chips)
+Seat 2: CJHird ($0.79 in chips)
+Seat 3: StuffedPeppr ($2.09 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 5: KingSklasse ($1.56 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.07 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Th 4s]
+Williams1015: folds
+KingSklasse: calls $0.02
+Aristarh0: folds
+AsoleXx: folds
+Hannelore900: folds
+Castesso: raises $0.04 to $0.06
+CJHird: folds
+StuffedPeppr: folds
+KingSklasse: calls $0.04
+*** FLOP *** [Qs 9d Kc]
+KingSklasse: checks
+Castesso: checks
+*** TURN *** [Qs 9d Kc] [5s]
+KingSklasse: checks
+Castesso: checks
+*** RIVER *** [Qs 9d Kc 5s] [7c]
+KingSklasse: checks
+Castesso: checks
+*** SHOW DOWN ***
+KingSklasse: shows [Ad 5d] (a pair of Fives)
+Castesso: mucks hand
+KingSklasse collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [Qs 9d Kc 5s 7c]
+Seat 1: Castesso (button) mucked [Jh Ah]
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) folded before Flop
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse showed [Ad 5d] and won ($0.14) with a pair of Fives
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 91 **************
+PokerStars Hand #208415177363:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:55:04 WET [2020/01/22 4:55:04 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.64 in chips)
+Seat 3: trukot ($2.91 in chips)
+Seat 4: StuffedPeppr ($1.98 in chips)
+Seat 6: Alessvasaio ($1.30 in chips)
+Seat 7: verhasste ($0.77 in chips)
+Seat 9: KyJIaKoB ($2.06 in chips)
+StuffedPeppr: posts small blind $0.01
+Alessvasaio: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Qc 9d]
+verhasste: folds
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: raises $0.03 to $0.05
+w2tamm joins the table at seat #5
+Alessvasaio has timed out
+Alessvasaio: folds
+Uncalled bet ($0.03) returned to StuffedPeppr
+StuffedPeppr collected $0.04 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) collected ($0.04)
+Seat 6: Alessvasaio (big blind) folded before Flop
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 92 **************
+PokerStars Hand #208415173299:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:54:47 WET [2020/01/22 4:54:47 ET]
+Table 'Gansu' 9-max Seat #8 is the button
+Seat 1: Castesso ($2.28 in chips)
+Seat 2: CJHird ($0.74 in chips)
+Seat 3: StuffedPeppr ($2.09 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 5: KingSklasse ($1.60 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.07 in chips)
+Castesso: posts small blind $0.01
+CJHird: posts big blind $0.02
+KingSklasse: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8c 3h]
+StuffedPeppr: folds
+Williams1015: folds
+KingSklasse: checks
+Aristarh0: folds
+AsoleXx: folds
+Hannelore900: folds
+Castesso: folds
+CJHird: checks
+*** FLOP *** [Tc 4d Ah]
+CJHird: checks
+KingSklasse: checks
+*** TURN *** [Tc 4d Ah] [Ac]
+CJHird: bets $0.02
+KingSklasse: calls $0.02
+*** RIVER *** [Tc 4d Ah Ac] [Kc]
+CJHird: bets $0.08
+KingSklasse: folds
+Uncalled bet ($0.08) returned to CJHird
+CJHird collected $0.09 from pot
+CJHird: doesn't show hand
+*** SUMMARY ***
+Total pot $0.09 | Rake $0
+Board [Tc 4d Ah Ac Kc]
+Seat 1: Castesso (small blind) folded before Flop
+Seat 2: CJHird (big blind) collected ($0.09)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 5: KingSklasse folded on the River
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 (button) folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #208415170910:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:54:37 WET [2020/01/22 4:54:37 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: Hannelore900 ($1.82 in chips)
+Seat 2: RubbisTK ($2.61 in chips)
+Seat 3: trukot ($2.92 in chips)
+Seat 4: StuffedPeppr ($2 in chips)
+Seat 5: Vyzychy ($2.50 in chips)
+Seat 6: Alessvasaio ($1.30 in chips)
+Seat 7: verhasste ($0.77 in chips)
+Seat 9: KyJIaKoB ($2.06 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3s 2d]
+Vyzychy: folds
+Vyzychy leaves the table
+Alessvasaio: folds
+verhasste: folds
+KyJIaKoB: folds
+Hannelore900: folds
+RubbisTK: raises $0.04 to $0.06
+trukot: folds
+StuffedPeppr: folds
+Uncalled bet ($0.04) returned to RubbisTK
+RubbisTK collected $0.05 from pot
+RubbisTK: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Hannelore900 folded before Flop (didn't bet)
+Seat 2: RubbisTK (button) collected ($0.05)
+Seat 3: trukot (small blind) folded before Flop
+Seat 4: StuffedPeppr (big blind) folded before Flop
+Seat 5: Vyzychy folded before Flop (didn't bet)
+Seat 6: Alessvasaio folded before Flop (didn't bet)
+Seat 7: verhasste folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
+
+
+*********** # 94 **************
+PokerStars Hand #208415167308:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:54:22 WET [2020/01/22 4:54:22 ET]
+Table 'Gansu' 9-max Seat #7 is the button
+Seat 1: Castesso ($2.26 in chips)
+Seat 2: CJHird ($0.74 in chips)
+Seat 3: StuffedPeppr ($2.09 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 6: Aristarh0 ($0.91 in chips)
+Seat 7: AsoleXx ($2.19 in chips)
+Seat 8: Hannelore900 ($5.09 in chips)
+Hannelore900: posts small blind $0.01
+Castesso: posts big blind $0.02
+KingSklasse: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [3h 2d]
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+Aristarh0: folds
+AsoleXx: folds
+Hannelore900: calls $0.01
+Castesso: checks
+*** FLOP *** [Qd As Qs]
+Hannelore900: checks
+Castesso: checks
+*** TURN *** [Qd As Qs] [Tc]
+Hannelore900: checks
+Castesso: checks
+*** RIVER *** [Qd As Qs Tc] [Kc]
+Hannelore900: checks
+Castesso: checks
+*** SHOW DOWN ***
+Hannelore900: shows [2c 7c] (a pair of Queens)
+Castesso: shows [6c Th] (two pair, Queens and Tens)
+Castesso collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0
+Board [Qd As Qs Tc Kc]
+Seat 1: Castesso (big blind) showed [6c Th] and won ($0.04) with two pair, Queens and Tens
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: AsoleXx (button) folded before Flop (didn't bet)
+Seat 8: Hannelore900 (small blind) showed [2c 7c] and lost with a pair of Queens
+
+
+*********** # 95 **************
+PokerStars Hand #208415156231:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:53:37 WET [2020/01/22 4:53:37 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.26 in chips)
+Seat 2: CJHird ($0.74 in chips)
+Seat 3: StuffedPeppr ($2.09 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 6: Aristarh0 ($0.77 in chips)
+Seat 7: AsoleXx ($2.20 in chips)
+Seat 8: Hannelore900 ($5.23 in chips)
+AsoleXx: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [5s Qs]
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+Aristarh0: raises $0.05 to $0.07
+AsoleXx: folds
+Hannelore900: calls $0.05
+*** FLOP *** [Kh 8d 9h]
+Hannelore900: checks
+Aristarh0: bets $0.07
+Hannelore900: calls $0.07
+*** TURN *** [Kh 8d 9h] [Ts]
+KingSklasse joins the table at seat #5
+Hannelore900: checks
+Aristarh0: bets $0.28
+Hannelore900: folds
+Uncalled bet ($0.28) returned to Aristarh0
+Aristarh0 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01
+Board [Kh 8d 9h Ts]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) collected ($0.28)
+Seat 7: AsoleXx (small blind) folded before Flop
+Seat 8: Hannelore900 (big blind) folded on the Turn
+
+
+*********** # 96 **************
+PokerStars Hand #208415149863:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:53:11 WET [2020/01/22 4:53:11 ET]
+Table 'Gansu' 9-max Seat #4 is the button
+Seat 1: Castesso ($2.26 in chips)
+Seat 2: CJHird ($0.74 in chips)
+Seat 3: StuffedPeppr ($2.09 in chips)
+Seat 4: Williams1015 ($1.68 in chips)
+Seat 6: Aristarh0 ($0.71 in chips)
+Seat 7: AsoleXx ($2.26 in chips)
+Seat 8: Hannelore900 ($5.23 in chips)
+Aristarh0: posts small blind $0.01
+AsoleXx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7d 9d]
+Hannelore900: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: folds
+Aristarh0: raises $0.04 to $0.06
+AsoleXx: calls $0.04
+*** FLOP *** [Td Js 4c]
+k4pe307 is disconnected
+Aristarh0: bets $0.12
+AsoleXx: folds
+Uncalled bet ($0.12) returned to Aristarh0
+Aristarh0 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0
+Board [Td Js 4c]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr folded before Flop (didn't bet)
+Seat 4: Williams1015 (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) collected ($0.12)
+Seat 7: AsoleXx (big blind) folded on the Flop
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+
+
+*********** # 97 **************
+PokerStars Hand #208415144122:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:52:47 WET [2020/01/22 4:52:47 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.26 in chips)
+Seat 2: CJHird ($0.74 in chips)
+Seat 3: StuffedPeppr ($2.06 in chips)
+Seat 4: Williams1015 ($1.69 in chips)
+Seat 6: Aristarh0 ($0.73 in chips)
+Seat 7: AsoleXx ($2.26 in chips)
+Seat 8: Hannelore900 ($5.23 in chips)
+Seat 9: k4pe307 ($2.04 in chips)
+Williams1015: posts small blind $0.01
+fanat03: is sitting out
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [4d Ac]
+AsoleXx: folds
+Hannelore900: folds
+fanat03 leaves the table
+k4pe307 has timed out
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.02 to $0.04
+Williams1015: folds
+Aristarh0: folds
+Uncalled bet ($0.02) returned to StuffedPeppr
+StuffedPeppr collected $0.05 from pot
+StuffedPeppr: doesn't show hand
+*** SUMMARY ***
+Total pot $0.05 | Rake $0
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) collected ($0.05)
+Seat 4: Williams1015 (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 98 **************
+PokerStars Hand #208415136230:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:52:15 WET [2020/01/22 4:52:15 ET]
+Table 'Gansu' 9-max Seat #2 is the button
+Seat 1: Castesso ($2.26 in chips)
+Seat 2: CJHird ($1.54 in chips)
+Seat 3: StuffedPeppr ($2.07 in chips)
+Seat 4: Williams1015 ($0.80 in chips)
+Seat 5: fanat03 ($4.63 in chips)
+Seat 6: Aristarh0 ($0.80 in chips)
+Seat 7: AsoleXx ($2.33 in chips)
+Seat 8: Hannelore900 ($5.23 in chips)
+Seat 9: k4pe307 ($2.04 in chips)
+StuffedPeppr: posts small blind $0.01
+Williams1015: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [6s 6c]
+fanat03: folds
+Aristarh0: raises $0.05 to $0.07
+AsoleXx: calls $0.07
+Hannelore900: folds
+k4pe307: folds
+Castesso: folds
+CJHird: raises $1.47 to $1.54 and is all-in
+StuffedPeppr: folds
+Williams1015: calls $0.78 and is all-in
+Aristarh0: folds
+AsoleXx: folds
+Uncalled bet ($0.74) returned to CJHird
+*** FLOP *** [Qd 6h Qs]
+*** TURN *** [Qd 6h Qs] [Js]
+*** RIVER *** [Qd 6h Qs Js] [5s]
+*** SHOW DOWN ***
+Williams1015: shows [Ts Tc] (two pair, Queens and Tens)
+CJHird: shows [Kd Ad] (a pair of Queens)
+Williams1015 collected $1.69 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06
+Board [Qd 6h Qs Js 5s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird (button) showed [Kd Ad] and lost with a pair of Queens
+Seat 3: StuffedPeppr (small blind) folded before Flop
+Seat 4: Williams1015 (big blind) showed [Ts Tc] and won ($1.69) with two pair, Queens and Tens
+Seat 5: fanat03 folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop
+Seat 7: AsoleXx folded before Flop
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 99 **************
+PokerStars Hand #208415127010:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 9:51:38 WET [2020/01/22 4:51:38 ET]
+Table 'Gansu' 9-max Seat #1 is the button
+Seat 1: Castesso ($2.32 in chips)
+Seat 2: CJHird ($1.55 in chips)
+Seat 3: StuffedPeppr ($2 in chips)
+Seat 5: fanat03 ($4.63 in chips)
+Seat 7: AsoleXx ($2.33 in chips)
+Seat 8: Hannelore900 ($5.23 in chips)
+Seat 9: k4pe307 ($2.04 in chips)
+CJHird: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+Williams1015: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [8d Qc]
+fanat03: folds
+AsoleXx: folds
+Hannelore900: folds
+k4pe307: folds
+Castesso: raises $0.04 to $0.06
+CJHird: folds
+StuffedPeppr: calls $0.04
+*** FLOP *** [9d 8h 4d]
+StuffedPeppr: checks
+Castesso: checks
+*** TURN *** [9d 8h 4d] [2c]
+StuffedPeppr: checks
+Castesso: checks
+*** RIVER *** [9d 8h 4d 2c] [6c]
+StuffedPeppr: checks
+Castesso: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [8d Qc] (a pair of Eights)
+Castesso: mucks hand
+StuffedPeppr collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0
+Board [9d 8h 4d 2c 6c]
+Seat 1: Castesso (button) mucked [Qs Ah]
+Seat 2: CJHird (small blind) folded before Flop
+Seat 3: StuffedPeppr (big blind) showed [8d Qc] and won ($0.13) with a pair of Eights
+Seat 5: fanat03 folded before Flop (didn't bet)
+Seat 7: AsoleXx folded before Flop (didn't bet)
+Seat 8: Hannelore900 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
