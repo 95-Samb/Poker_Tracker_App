@@ -5,5 +5,10 @@ class BankrollsController < ApplicationController
   def new
     @bankroll = Bankroll.new
   end
+  def create
+    bankroll = Bankroll.new
+    bankroll.save
+
+  end
 
 end
