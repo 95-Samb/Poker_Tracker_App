@@ -1,0 +1,52 @@
+*********** # 1 **************
+PokerStars Hand #208415630916:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:26:04 WET [2020/01/22 5:26:04 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: voronDOK ($1.02 in chips)
+Seat 2: RubbisTK ($2.63 in chips)
+Seat 3: trukot ($6.05 in chips)
+Seat 4: StuffedPeppr ($2.37 in chips)
+Seat 5: soultee88 ($2.16 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7s Ac]
+heracles008: raises $0.04 to $0.06
+Electronikus: folds
+KyJIaKoB: calls $0.06
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: calls $0.04
+*** FLOP *** [Ts 8d 4h]
+StuffedPeppr leaves the table
+pokereule754 joins the table at seat #4
+soultee88: checks
+heracles008: bets $0.08
+KyJIaKoB: calls $0.08
+soultee88: folds
+*** TURN *** [Ts 8d 4h] [6h]
+heracles008: bets $0.12
+KyJIaKoB: raises $0.12 to $0.24
+heracles008: calls $0.12
+*** RIVER *** [Ts 8d 4h 6h] [Kd]
+heracles008: checks
+KyJIaKoB: bets $0.42
+heracles008: folds
+Uncalled bet ($0.42) returned to KyJIaKoB
+KyJIaKoB collected $0.80 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03
+Board [Ts 8d 4h 6h Kd]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded on the Flop
+Seat 7: heracles008 folded on the River
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB collected ($0.80)
