@@ -8,7 +8,7 @@ describe "uploading a single hand" do
   end
 
   it 'uploads without error' do
-    expect(page).to have_content("hand 1")
+    expect(page).to have_content("Hands")
   end
 
   describe "Relevant information displayed" do
