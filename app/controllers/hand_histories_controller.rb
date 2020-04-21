@@ -6,16 +6,16 @@ class HandHistoriesController < ApplicationController
     @hand_history = HandHistory.new
   end
   def create
-    @hand_history = HandHistory.new(hand_history_params)
-    redirect_to "http://localhost:3000/hand_histories/show"
+    @hand_history = HandHistory.new(hand_history_params).save
+    redirect_to @hand_history
   end
   def show
-    #@hand_history = HandHistory.find(params[:id])
+    @hand_history_file = params[:hand_history]
   end
 
   private
 
   def hand_history_params
-      params.fetch(:hand_history, {}).permit(:file)
+    params.require(:hand_history).permit(:file)
   end
 end

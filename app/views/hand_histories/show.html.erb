@@ -2,4 +2,8 @@
 <p> Hero: 7c,Ac </p>
 <p> Hero folds </p>
 <p> Hero: Tc,3s </p>
-
+<% if @hand_history_file %>
+<%=  @hand_history_file.read %>
+<% else %>
+<%= "didnt work" %>
+<% end %>
