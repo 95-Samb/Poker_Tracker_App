@@ -6,11 +6,13 @@ class HandHistoriesController < ApplicationController
     @hand_history = HandHistory.new
   end
   def create
-    @hand_history = HandHistory.new(hand_history_params).save
+    @hand_history = HandHistory.new(hand_history_params)
+    @hand_history.data = params[:hand_history][:file].read
+    @hand_history.save #save causes a to_model exception
     redirect_to @hand_history
   end
   def show
-    @hand_history_file = params[:hand_history]
+    @hand_history = HandHistory.find(params[:id])
   end
 
   private
