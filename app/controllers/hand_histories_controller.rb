@@ -8,7 +8,7 @@ class HandHistoriesController < ApplicationController
   def create
     @hand_history = HandHistory.new(hand_history_params)
     @hand_history.data = params[:hand_history][:file].read
-    @hand_history.save #save causes a to_model exception
+    @hand_history.save
     redirect_to @hand_history
   end
   def show

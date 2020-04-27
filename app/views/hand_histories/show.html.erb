@@ -2,8 +2,4 @@
 <p> Hero: 7c,Ac </p>
 <p> Hero folds </p>
 <p> Hero: Tc,3s </p>
-<% if @hand_history %>
-<%=  @hand_history.data %>
-<% else %>
-<%= "didnt work" %>
-<% end %>
+<%=  @hand_history[:data].length %>
