@@ -41,7 +41,7 @@ ActiveRecord::Schema.define(version: 2020_04_22_092247) do
   create_table "hand_histories", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.binary "data"
+    t.text "data"
   end
 
   create_table "hands", force: :cascade do |t|

@@ -1,5 +1,4 @@
 class HandHistory < ApplicationRecord
-  has_one_attached :file
 
   def self.hand_logic(input)
     file = File.read(input)
