@@ -2,7 +2,7 @@ describe "uploading a single hand" do
   before(:each) do
     visit '/hand_histories/new'
 
-    attach_file("hand_history_file",Rails.root + "files for testing/1 cash hand example.txt")
+    attach_file("file",Rails.root + "files for testing/1 cash hand example.txt")
 
     click_button
   end
