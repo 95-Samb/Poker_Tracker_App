@@ -1,0 +1,159 @@
+*********** # 1 **************
+PokerStars Hand #208415630916:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:26:04 WET [2020/01/22 5:26:04 ET]
+Table 'Patroclus II' 9-max Seat #3 is the button
+Seat 1: voronDOK ($1.02 in chips)
+Seat 2: RubbisTK ($2.63 in chips)
+Seat 3: trukot ($6.05 in chips)
+Seat 4: StuffedPeppr ($2.37 in chips)
+Seat 5: soultee88 ($2.16 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+StuffedPeppr: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [7s Ac]
+heracles008: raises $0.04 to $0.06
+Electronikus: folds
+KyJIaKoB: calls $0.06
+voronDOK: folds
+RubbisTK: folds
+trukot: folds
+StuffedPeppr: folds
+soultee88: calls $0.04
+*** FLOP *** [Ts 8d 4h]
+StuffedPeppr leaves the table
+pokereule754 joins the table at seat #4
+soultee88: checks
+heracles008: bets $0.08
+KyJIaKoB: calls $0.08
+soultee88: folds
+*** TURN *** [Ts 8d 4h] [6h]
+heracles008: bets $0.12
+KyJIaKoB: raises $0.12 to $0.24
+heracles008: calls $0.12
+*** RIVER *** [Ts 8d 4h 6h] [Kd]
+heracles008: checks
+KyJIaKoB: bets $0.42
+heracles008: folds
+Uncalled bet ($0.42) returned to KyJIaKoB
+KyJIaKoB collected $0.80 from pot
+KyJIaKoB: doesn't show hand
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03
+Board [Ts 8d 4h 6h Kd]
+Seat 1: voronDOK folded before Flop (didn't bet)
+Seat 2: RubbisTK folded before Flop (didn't bet)
+Seat 3: trukot (button) folded before Flop (didn't bet)
+Seat 4: StuffedPeppr (small blind) folded before Flop
+Seat 5: soultee88 (big blind) folded on the Flop
+Seat 7: heracles008 folded on the River
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB collected ($0.80)
+
+
+*********** # 2 **************
+PokerStars Hand #208415618147:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:25:14 WET [2020/01/22 5:25:14 ET]
+Table 'Gansu' 9-max Seat #3 is the button
+Seat 1: Castesso ($2.44 in chips)
+Seat 2: CJHird ($0.55 in chips)
+Seat 3: StuffedPeppr ($4.98 in chips)
+Seat 4: Williams1015 ($0.76 in chips)
+Seat 5: immersteif ($1.98 in chips)
+Seat 7: MAAE959 ($0.86 in chips)
+Seat 8: GreyWolf9999 ($2.06 in chips)
+Seat 9: k4pe307 ($2.17 in chips)
+Williams1015: posts small blind $0.01
+immersteif: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Tc 3s]
+MAAE959: folds
+GreyWolf9999: folds
+k4pe307: folds
+Castesso: raises $0.03 to $0.05
+CJHird: folds
+StuffedPeppr: folds
+Williams1015: calls $0.04
+StuffedPeppr leaves the table
+immersteif: calls $0.03
+*** FLOP *** [Qh 7h As]
+Shelder87 joins the table at seat #3
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** TURN *** [Qh 7h As] [2d]
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** RIVER *** [Qh 7h As 2d] [Js]
+Williams1015: checks
+immersteif: checks
+Castesso: checks
+*** SHOW DOWN ***
+Williams1015: shows [9d Jh] (a pair of Jacks)
+immersteif: mucks hand
+Castesso: mucks hand
+Williams1015 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01
+Board [Qh 7h As 2d Js]
+Seat 1: Castesso mucked [6c 6s]
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr (button) folded before Flop (didn't bet)
+Seat 4: Williams1015 (small blind) showed [9d Jh] and won ($0.14) with a pair of Jacks
+Seat 5: immersteif (big blind) mucked [5s 5c]
+Seat 7: MAAE959 folded before Flop (didn't bet)
+Seat 8: GreyWolf9999 folded before Flop (didn't bet)
+Seat 9: k4pe307 folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #208415613640:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:24:57 WET [2020/01/22 5:24:57 ET]
+Table 'Patroclus II' 9-max Seat #2 is the button
+Seat 1: voronDOK ($1.37 in chips)
+Seat 2: RubbisTK ($2.63 in chips)
+Seat 3: trukot ($6.11 in chips)
+Seat 4: StuffedPeppr ($1.99 in chips)
+Seat 5: soultee88 ($2.16 in chips)
+Seat 7: heracles008 ($0.89 in chips)
+Seat 8: Electronikus ($1.85 in chips)
+Seat 9: KyJIaKoB ($2.37 in chips)
+trukot: posts small blind $0.01
+StuffedPeppr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Ks Qh]
+soultee88: folds
+heracles008: folds
+Electronikus: folds
+KyJIaKoB: folds
+voronDOK: raises $0.04 to $0.06
+RubbisTK: folds
+trukot: calls $0.05
+StuffedPeppr: calls $0.04
+*** FLOP *** [5c 9d Qc]
+trukot: checks
+StuffedPeppr: bets $0.10
+voronDOK: calls $0.10
+trukot: folds
+*** TURN *** [5c 9d Qc] [7d]
+StuffedPeppr: checks
+voronDOK: bets $0.19
+StuffedPeppr: calls $0.19
+*** RIVER *** [5c 9d Qc 7d] [6s]
+StuffedPeppr: checks
+voronDOK: checks
+*** SHOW DOWN ***
+StuffedPeppr: shows [Ks Qh] (a pair of Queens)
+voronDOK: mucks hand
+StuffedPeppr collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03
+Board [5c 9d Qc 7d 6s]
+Seat 1: voronDOK mucked [Qd Jd]
+Seat 2: RubbisTK (button) folded before Flop (didn't bet)
+Seat 3: trukot (small blind) folded on the Flop
+Seat 4: StuffedPeppr (big blind) showed [Ks Qh] and won ($0.73) with a pair of Queens
+Seat 5: soultee88 folded before Flop (didn't bet)
+Seat 7: heracles008 folded before Flop (didn't bet)
+Seat 8: Electronikus folded before Flop (didn't bet)
+Seat 9: KyJIaKoB folded before Flop (didn't bet)
