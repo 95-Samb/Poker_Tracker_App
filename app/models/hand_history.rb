@@ -12,4 +12,17 @@ class HandHistory < ApplicationRecord
     output
   end
 
+  # following method acquired from
+  # https://stackoverflow.com/questions/38263910/finding-certain-ruby-word-in-txt-file
+  def self.lines_containing_string(filename,string)
+    rx = Regexp.new(Regexp.escape(string), true)
+    matches_array = []
+    i = 1
+    IO.foreach(filename) do |line|
+      matches_array.push(i) if line[rx]
+      i += 1
+    end
+    matches_array
+  end
+
 end
