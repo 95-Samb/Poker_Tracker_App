@@ -20,7 +20,7 @@ RSpec.describe HandHistory, type: :model do
         expect(HandHistory.hand_logic(file)[0][:preflop_action]).to eq("folds")
       end
     end
-    xcontext "for 2 hands" do
+    context "for 2 hands" do
       file = File.open(Rails.root.join "files for testing/2 cash hand example.txt")
       it "returns Hero's 2nd hand holding" do
         expect(HandHistory.hand_logic(file)[1][:holdings]).to eq("Tc,3s")
@@ -29,13 +29,13 @@ RSpec.describe HandHistory, type: :model do
         expect(HandHistory.hand_logic(file)[1][:preflop_action]).to eq("folds")
       end
     end
-    xcontext "for 3 hands" do
+    context "for 3 hands" do
       file = File.open(Rails.root.join "files for testing/3 cash hand example.txt")
       it "returns Hero's 3rd hand holding" do
-        expect(HandHistory.hand_logic(file)[0][2]).to eq("Ks,Qh")
+        expect(HandHistory.hand_logic(file)[2][:holdings]).to eq("Ks,Qh")
       end
-      it "returns Hero's preflop action" do
-        expect(HandHistory.hand_logic(file)[1]).to eq("calls $0.04")
+      xit "returns Hero's preflop action" do
+        expect(HandHistory.hand_logic(file)[2][:preflop_action]).to eq("calls $0.04")
       end
     end
     context "for lines_containing_string method" do

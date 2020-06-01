@@ -5,10 +5,16 @@ class HandHistory < ApplicationRecord
     hand_history = file.split("\n")
     output = []
     hand = {}
-    hand[:holdings] = hand_history[14].split("[").last[0..-2]
-    hand[:holdings][2] = ","
-    hand[:preflop_action] = "folds"
-    output.push(hand)
+    holding_lines = HandHistory.lines_containing_string(input,"Dealt to")
+    holding_lines.map! {|i| i - 1}
+    i = 0
+    while i < holding_lines.length
+      hand[:holdings] = hand_history[holding_lines[i]].split("[").last[0..-2]
+      hand[:holdings][2] = ","
+      hand[:preflop_action] = "folds"
+      output.push(hand)
+      i += 1
+    end
     output
   end
 
