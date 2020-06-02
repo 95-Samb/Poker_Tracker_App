@@ -12,11 +12,11 @@ describe "uploading a single hand" do
   end
 
   describe "Relevant information displayed" do
-    it "displays Hero's holding" do
-      expect(page).to have_content("Hero: 7c,Ac")
+    it "displays hand number" do
+      expect(page).to have_content("208415630916")
     end
-    it "displays Hero's preflop action" do
-      expect(page).to have_content("Hero folds")
+    it "displays money won" do
+      expect(page).to have_content("-$0.01")
     end
   end
 end

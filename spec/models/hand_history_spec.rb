@@ -1,60 +1,28 @@
 require 'rails_helper'
 
 RSpec.describe HandHistory, type: :model do
-  context "for the hand logic method" do
-    context "for 1st single hand" do
+  context "for 1 cash hand example" do
+    before(:all) do
       file = File.open(Rails.root.join "files for testing/1 cash hand example.txt")
-      it "returns Hero's holding" do
-        expect(HandHistory.hand_logic(file)[0][:holdings]).to eq("7s,Ac")
-      end
-      it "returns Hero's preflop action" do
-        expect(HandHistory.hand_logic(file)[0][:preflop_action]).to eq("folds")
-      end
+      @hand_history = file.read
     end
-    context "for 2nd single hand" do
+    it "returns the correct number" do
+      expect(HandHistory.hand_number(@hand_history)).to eq(208415630916)
+    end
+    it "returns money won" do
+      expect(HandHistory.money_won(@hand_history)).to eq(-0.01)
+    end
+  end
+  context "for 2nd 1 cash hand example" do
+    before(:all) do
       file = File.open(Rails.root.join "files for testing/2nd 1 cash hand example.txt")
-      it "returns Hero'holding" do
-        expect(HandHistory.hand_logic(file)[0][:holdings]).to eq("Tc,3s")
-      end
-      it "returns Hero's preflop action" do
-        expect(HandHistory.hand_logic(file)[0][:preflop_action]).to eq("folds")
-      end
+      @hand_history = file.read
     end
-    context "for 2 hands" do
-      file = File.open(Rails.root.join "files for testing/2 cash hand example.txt")
-      it "returns Hero's 2nd hand holding" do
-        expect(HandHistory.hand_logic(file)[1][:holdings]).to eq("Tc,3s")
-      end
-      it "returns Hero's preflop action" do
-        expect(HandHistory.hand_logic(file)[1][:preflop_action]).to eq("folds")
-      end
+    it "returns the correct number" do
+      expect(HandHistory.hand_number(@hand_history)).to eq(208415618147)
     end
-    context "for 3 hands" do
-      file = File.open(Rails.root.join "files for testing/3 cash hand example.txt")
-      it "returns Hero's 3rd hand holding" do
-        expect(HandHistory.hand_logic(file)[2][:holdings]).to eq("Ks,Qh")
-      end
-      xit "returns Hero's preflop action" do
-        expect(HandHistory.hand_logic(file)[2][:preflop_action]).to eq("calls $0.04")
-      end
-    end
-    context "for lines_containing_string method" do
-      it "returns [15] for 1 cash hand example and Dealt to" do
-        file = File.open(Rails.root.join "files for testing/1 cash hand example.txt")
-        expect(HandHistory.lines_containing_string(file,"Dealt to")).to eq([15])
-      end
-      it "returns [15] for 2nd 1 cash hand example and Dealt to" do
-        file = File.open(Rails.root.join "files for testing/2nd 1 cash hand example.txt")
-        expect(HandHistory.lines_containing_string(file,"Dealt to")).to eq([15])
-      end
-      it "returns [15,69] for 2 cash hand example and Dealt to" do
-        file = File.open(Rails.root.join "files for testing/2 cash hand example.txt")
-        expect(HandHistory.lines_containing_string(file,"Dealt to")).to eq([15,69])
-      end
-      it "returns [15,69,124] for 2 cash hand example and Dealt to" do
-        file = File.open(Rails.root.join "files for testing/3 cash hand example.txt")
-        expect(HandHistory.lines_containing_string(file,"Dealt to")).to eq([15,69,124])
-      end
+    xit "returns money won" do
+      expect(HandHistory.money_won(@hand_history)).to eq(0)
     end
   end
 end
