@@ -1,0 +1,53 @@
+*********** # 17 **************
+PokerStars Hand #208415541911:  Hold'em No Limit ($0.01/$0.02 USD) - 2020/01/22 10:20:14 WET [2020/01/22 5:20:14 ET]
+Table 'Gansu' 9-max Seat #6 is the button
+Seat 1: Castesso ($2.47 in chips)
+Seat 2: CJHird ($0.58 in chips)
+Seat 3: StuffedPeppr ($3.28 in chips)
+Seat 4: Williams1015 ($0.80 in chips)
+Seat 6: Aristarh0 ($1.33 in chips)
+Seat 7: MAAE959 ($1.23 in chips)
+Seat 8: GreyWolf9999 ($2.09 in chips)
+Seat 9: k4pe307 ($1.84 in chips)
+MAAE959: posts small blind $0.01
+GreyWolf9999: posts big blind $0.02
+immersteif: sits out
+*** HOLE CARDS ***
+Dealt to StuffedPeppr [Kd Ad]
+k4pe307: folds
+Castesso: folds
+CJHird: folds
+StuffedPeppr: raises $0.04 to $0.06
+Williams1015: calls $0.06
+Aristarh0: folds
+MAAE959: calls $0.05
+GreyWolf9999 is disconnected
+GreyWolf9999 has timed out
+GreyWolf9999: folds
+*** FLOP *** [5d 6s Ah]
+MAAE959: checks
+StuffedPeppr: checks
+Williams1015: checks
+*** TURN *** [5d 6s Ah] [Ts]
+MAAE959: bets $0.06
+StuffedPeppr: calls $0.06
+Williams1015: calls $0.06
+*** RIVER *** [5d 6s Ah Ts] [7s]
+MAAE959: bets $0.08
+StuffedPeppr: calls $0.08
+Williams1015: folds
+*** SHOW DOWN ***
+MAAE959: shows [Qh Ac] (a pair of Aces)
+StuffedPeppr: shows [Kd Ad] (a pair of Aces - King kicker)
+StuffedPeppr collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02
+Board [5d 6s Ah Ts 7s]
+Seat 1: Castesso folded before Flop (didn't bet)
+Seat 2: CJHird folded before Flop (didn't bet)
+Seat 3: StuffedPeppr showed [Kd Ad] and won ($0.52) with a pair of Aces
+Seat 4: Williams1015 folded on the River
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: MAAE959 (small blind) showed [Qh Ac] and lost with a pair of Aces
+Seat 8: GreyWolf9999 (big blind) folded before Flop
+Seat 9: k4pe307 folded before Flop (didn't bet)
