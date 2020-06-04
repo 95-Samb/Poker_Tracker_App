@@ -26,4 +26,10 @@ class HandHistory < ApplicationRecord
     end
   end
 
+  def self.hand_info(hand_history)
+    hand_array = hand_history.split("\n")
+    last_index = hand_array.index("*** SUMMARY ***") - 1
+    hand_array[2..last_index].join("\n")
+  end
+
 end

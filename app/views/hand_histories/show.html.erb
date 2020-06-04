@@ -1,9 +1,16 @@
 
 
-<h1> Hands</h1>
-<p> Hero: 7c,Ac </p>
-<p> Hero folds </p>
-<p> Hero: Tc,3s </p>
+<%= HandHistory.hand_info(@hand_history.data) %>
 
-<%= HandHistory.hand_number(@hand_history.data) %>
-<%= number_to_currency(HandHistory.money_won(@hand_history.data)) %>
+
+<table>
+  <tr>
+    <td> Hand Number </td>
+    <td> Won </td>
+  </tr>
+  <tr>
+    <td> <%= HandHistory.hand_number(@hand_history.data) %> </td>
+    <td> <%= number_to_currency(HandHistory.money_won(@hand_history.data)) %> </td>
+  </tr>
+</table>
+

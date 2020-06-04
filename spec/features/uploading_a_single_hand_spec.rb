@@ -8,7 +8,7 @@ describe "uploading a single hand" do
   end
 
   it 'uploads without error' do
-    expect(page).to have_content("Hands")
+    expect(page).to have_content("Dealt to")
   end
 
   describe "Relevant information displayed" do
@@ -17,6 +17,9 @@ describe "uploading a single hand" do
     end
     it "displays money won" do
       expect(page).to have_content("-$0.01")
+    end
+    it "displays hole cards" do
+      expect(page).to have_content("[7s Ac]")
     end
   end
 end
