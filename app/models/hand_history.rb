@@ -32,4 +32,11 @@ class HandHistory < ApplicationRecord
     hand_array[2..last_index].join("\n")
   end
 
+  def self.holdings(hand)
+    hand.each_line do |line|
+      if line.include?("Dealt to")
+        return line.split("[")[1][0..-3]
+      end
+    end
+  end
 end

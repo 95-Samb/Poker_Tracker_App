@@ -23,3 +23,29 @@ describe "uploading a single hand" do
     end
   end
 end
+describe "uploading a single hand" do
+  before(:each) do
+    visit '/hand_histories/new'
+
+    attach_file("file",Rails.root + "files for testing/2nd 1 cash hand example.txt")
+
+    click_button
+  end
+
+  it 'uploads without error' do
+    expect(page).to have_content("Dealt to")
+  end
+
+  describe "Relevant information displayed" do
+    it "displays hand number" do
+      expect(page).to have_content("208415618147")
+    end
+    it "displays money won" do
+      expect(page).to have_content("$0.00")
+    end
+    it "displays hole cards" do
+      expect(page).to have_content("[Tc 3s]")
+    end
+  end
+
+end

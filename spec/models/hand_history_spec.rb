@@ -18,6 +18,9 @@ RSpec.describe HandHistory, type: :model do
     it "returns correct complete hand information" do
       expect(HandHistory.hand_info(@hand_history)).to eq(@hand_history.split("\n")[2..40].join("\n"))
     end
+    it "returns correct holdings" do
+      expect(HandHistory.holdings(@hand_history)).to eq("7s Ac")
+    end
   end
   context "for 2nd 1 cash hand example" do
     before(:all) do
@@ -33,6 +36,9 @@ RSpec.describe HandHistory, type: :model do
     it "returns correct complete hand information" do
       expect(HandHistory.hand_info(@hand_history)).to eq(@hand_history.split("\n")[2..41].join("\n"))
     end
+    it "returns correct holdings" do
+      expect(HandHistory.holdings(@hand_history)).to eq("Tc 3s")
+    end
   end
   context "for 3rd 1 cash hand example" do
     before(:all) do
@@ -44,6 +50,9 @@ RSpec.describe HandHistory, type: :model do
     end
     it "returns correct complete hand information" do
       expect(HandHistory.hand_info(@hand_history)).to eq(@hand_history.split("\n")[2..41].join("\n"))
+    end
+    it "returns correct holdings" do
+      expect(HandHistory.holdings(@hand_history)).to eq("Kd Ad")
     end
   end
 end
