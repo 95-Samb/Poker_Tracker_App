@@ -6,7 +6,7 @@ class HandHistoriesController < ApplicationController
     @hand_history = HandHistory.new
   end
   def create
-    @hand_history = HandHistory.new#(hand_history_params)
+    @hand_history = HandHistory.new
     @hand_history.data = params[:file].read
     @hand_history.save
     redirect_to @hand_history
@@ -17,7 +17,4 @@ class HandHistoriesController < ApplicationController
 
   private
 
-  def hand_history_params
-    params.require(:hand_history)
-  end
 end

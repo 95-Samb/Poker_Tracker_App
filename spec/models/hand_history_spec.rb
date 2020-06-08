@@ -55,4 +55,16 @@ RSpec.describe HandHistory, type: :model do
       expect(HandHistory.holdings(@hand_history)).to eq("Kd Ad")
     end
   end
+
+  context "for 2 cash hand example" do
+    before(:all) do
+      file = File.open(Rails.root.join "files for testing/2 cash hand example.txt")
+      @hand_history = file.read
+      @first_hand = @hand_history.split("\n")[0..51].join("\n")
+      @second_hand = @hand_history.split("\n")[54..106].join("\n")
+    end
+    it "returns correct format for 2 cash hand example" do
+      expect(HandHistory.split_history(@hand_history)).to eq([@first_hand,@second_hand])
+    end
+  end
 end

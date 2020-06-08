@@ -39,4 +39,13 @@ class HandHistory < ApplicationRecord
       end
     end
   end
+
+  def self.split_history(read_file)
+    line_array = read_file.split("\n")
+    line_array.delete_if{|line| line.empty?}
+    start_of_hands = []
+    line_array.each_index{|line| start_of_hands.push(line) if line_array[line].include?("***********") }
+    [line_array[start_of_hands[0]..(start_of_hands[1] - 1)].join("\n"),
+    line_array[start_of_hands[1]..-1].join("\n")]
+  end
 end
